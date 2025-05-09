@@ -11,4 +11,23 @@ CS Project Final Video 2 -
 
 Make sure to download both the VR environment and the First-Person desktop environment game worlds. The desktop is the baseline and the VR has the conditions. The VR world has more features in it thus more code. 
 
+Download all of the files from the "Final Project" folder, create a new VR project and add the Final project folders into the Content folder of the VR project. After that add the 3 files within this PR to their corresponding directories:
+
+VR Hands - > Content/Working_Hand_Tracking.umap
+Replace existing VRPawn-> Content/VRTemplate/Blueprints/VRPawn.uasset
+Global Variables -> Content/Globals/GlobalVariables/GlobalVariables.uasset
+Plugins you'll need:
+- Electra Player (Prevents Computer UI from freezing)
+
+Plugins you might need (If uassets fail importing):
+- GPU Lightmass
+- USD Importer
+
+*Important*
+You'll need to configure the project settings slightly to get the lighting in the scene to work on VR. Within the "Rendering" section of the project settings change:
+
+- Forward Renderer: Forward Shading = False
+- Global Illumination: Dynamic Global Illumination Method = None
+- VR: Instanced Stereo = False
+
 Plugins - All OpenXR Plugins off, MetaXR enabled, 
