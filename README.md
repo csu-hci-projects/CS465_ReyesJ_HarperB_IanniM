@@ -8,7 +8,9 @@ Link to overleaf paper: https://www.overleaf.com/read/jcsknrjfgxvj#98b9cd
 Link to Github - https://github.com/csu-hci-projects/CS465_ReyesJ_HarperB_IanniM
 
 CS Project Final Video 1 - https://www.youtube.com/watch?v=OXR6smymH2c
+Download Link - https://colostate-my.sharepoint.com/personal/georeyes_colostate_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fgeoreyes%5Fcolostate%5Fedu%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FFinal%5FV1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7eab0025%2D971b%2D4402%2Da531%2D06dbf66af897
 CS Project Final Video 2 - https://www.youtube.com/watch?v=rPEJndQE59Q
+Download Link - https://colostate-my.sharepoint.com/personal/benharpr_colostate_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbenharpr%5Fcolostate%5Fedu%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FCS465Project%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E81ef02ec%2D192a%2D4e2f%2D8ff6%2D8b0b1dca2aeb
 CS Project Final Video 3 - 
 
 The Final Project folder is where our source code lives. 
