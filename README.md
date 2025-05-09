@@ -13,6 +13,8 @@ CS Project Final Video 2 - https://www.youtube.com/watch?v=rPEJndQE59Q
 Download Link - https://colostate-my.sharepoint.com/personal/benharpr_colostate_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbenharpr%5Fcolostate%5Fedu%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FCS465Project%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E81ef02ec%2D192a%2D4e2f%2D8ff6%2D8b0b1dca2aeb
 CS Project Final Video 3 - 
 
+Download Link - 
+
 The Final Project folder is where our source code lives. 
 
 Download all of the files from the "Final Project" folder, create a new VR project and add the Final project folders into the Content folder of the VR project. After that add the 3 files within this PR to their corresponding directories:
