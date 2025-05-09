@@ -12,8 +12,6 @@ CS Project Final Video 2 -
 
 The Final Project folder is where our source code lives. 
 
-Make sure to download both the VR environment and the First-Person desktop environment game worlds. The desktop is the baseline and the VR has the conditions. The VR world has more features in it thus more code. 
-
 Download all of the files from the "Final Project" folder, create a new VR project and add the Final project folders into the Content folder of the VR project. After that add the 3 files within this PR to their corresponding directories:
 
 VR Hands - > Content/Working_Hand_Tracking.umap
@@ -21,6 +19,8 @@ Replace existing VRPawn-> Content/VRTemplate/Blueprints/VRPawn.uasset
 Global Variables -> Content/Globals/GlobalVariables/GlobalVariables.uasset
 Plugins you'll need:
 - Electra Player (Prevents Computer UI from freezing)
+
+Make sure to create a first person world for the baseline experiment and a VR world for the VR experiment. 
 
 Plugins you might need (If uassets fail importing):
 - GPU Lightmass
