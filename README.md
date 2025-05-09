@@ -42,3 +42,5 @@ You'll need to configure the project settings slightly to get the lighting in th
 - VR: Instanced Stereo = False
 
 Make sure that hand tracking is enabled in the headset settings as well. 
+
+Project RR Graph  - it has the relevant classes and their relationships plus what they lok like and who implemented what
