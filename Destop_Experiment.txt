@@ -1,0 +1,982 @@
+====================
+PARTICPANT #1.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 81
+Accuracy: 0.989362
+Incorrections: 1
+Time: 13.22304
+Clicks: [ "Left Shift", "P", "L", "e", "a", "s", "e", " ", "p", "i", "c", "k", " ", "u", "p", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "p", "l", "a", "c", "e", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 62
+Accuracy: 0.979798
+Incorrections: 2
+Time: 17.193138
+Clicks: [ "Left Shift", "C", "a", "r", "e", "f", "u", "l", "l", "y", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "d", "d", "Backspace", "Backspace", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "l", "o", "o", "r", " ", "a", "n", "d", " ", "c", "e", "n", "t", "e", "r", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "o", "r", "Backspace", "Backspace", "Backspace", "Backspace", "y", "o", "r", " ", "b", "e", "l", "y", "t", "Backspace", "t", " ", "Backspace", "t", "o", " ", "f", "i", "n", "i", "s", "h", " ", "t", "h", "e", " ", "t", "a", "s", "k", ".",  ]
+
+Task: 3
+WPM: 43
+Accuracy: 0.935185
+Incorrections: 7
+Time: 20.450686
+Clicks: [ "Left Shift", "S", "t", "e", "a", "d", "y", " ", "t", "h", "e", " ", "d", "w", "o", "Backspace", "Backspace", "Backspace", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", ",", " ", "r", "a", "i", "s", "e", "r", " ", "i", "t", " ", "s", "m", "Backspace", "Backspace", "Backspace", "s", "m", "o", "o", "t", "h", "y", "Backspace", "l", "y", " ", "a", "n", "d", " ", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "w", "Backspace", "q", "a", "u", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "t", "o", "r", " ", "b", "e", "l", "t", " ", "b", "e", "f", "o", "r", "e", " ", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "e", "a", "d", ".",  ]
+
+Task: 4
+WPM: 55
+Accuracy: 0.991453
+Incorrections: 1
+Time: 24.57585
+Clicks: [ "Left Shift", "P", "a", "t", "i", "e", "n", "t", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "h", "e", "l", "p", " ", "r", "e", "s", "c", "u", "r", "e", " ", "Backspace", "Backspace", "Backspace", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "i", "d", "e", "Backspace", "l", "k", "Backspace", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", "s", " ", "i", "t", " ", "b", "r", "i", "u", "Backspace", "s", "k", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "Backspace", "y", "o", "r", " ", "b", "e", "l", "t", "h", " ", "f", "o", "r", "Backspace", "Backspace", "Backspace", "Backspace", "f", "o", "r", " ", "s", "w", "i", "f", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 48
+Accuracy: 0.983607
+Incorrections: 2
+Time: 28.009271
+Clicks: [ "Left Shift", "Q", "W", "i", "Left Shift", "Backspace", "Backspace", "Backspace", "Left Shift", "W", "i", "t", "h", " ", "m", ",", "e", "a", "Backspace", "Backspace", "Backspace", "e", "a", "s", "u", "r", "e", "d", " ", "f", "i", "u", "n", "Backspace", "Backspace", "n", "e", "s", "s", "e", ",", " ", "r", "o", "b", "o", "t", "i", "o", "c", "Backspace", "c", " ", "Backspace", "c", "l", "a", "w", " ", "Backspace", ",", " ", "e", "l", "e", "v", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "a", "l", "i", "g", "n", " ", "i", "t", " ", "g", "r", "a", "e", "f", "Backspace", "Backspace", "c", "e", "f", "u", "l", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "o", "n", "c", "Backspace", "Backspace", "Backspace", "c", "o", "n", "v", "e", "r", "Backspace", "y", "o", "r", " ", "b", "e", "l", "t", "h", "Backspace", " ", "t", "o", " ", "c", "o", "n", "t", "i", "n", "u", "e", " ", "w", "o", "r", "k", ".",  ]
+
+Task: 6
+WPM: 41
+Accuracy: 0.966942
+Incorrections: 4
+Time: 29.659356
+Clicks: [ "Left Shift", "C", "l", "a", "w", ",", " ", "i", "n", "d", "u", "l", "g", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", " ", "-", " ", "e", "x", "t", "r", "u", "Backspace", "i", "c", "a", "t", "e", " ", "i", "t", " ", "g", "e", "n", "t", "l", "y", " ", "a", "n", "d", " ", "t", "i", "Backspace", "Backspace", "s", "s", "i", "Backspace", "Backspace", "i", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "y", "t", "l", "Backspace", "Backspace", "Backspace", "y", "l", "k", "Backspace", "Backspace", "t", "k", "y", " ", "u", "p", "Backspace", "Backspace", "Backspace", "u", "p", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "Backspace", "y", "o", "r", " ", "m", "e", "c", "h", "a", "n", "i", "s", "m", ".",  ]
+
+Task: 7
+WPM: 61
+Accuracy: 1.0
+Incorrections: 0
+Time: 24.925882
+Clicks: [ "Left Shift", "E", "s", "t", "e", "e", "m", "e", "d", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "e", "m", "a", "n", "c", "i", "a", "p", "Backspace", "Backspace", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "s", "t", "a", "n", "Backspace", "g", "n", "a", "t", "i", "o", "n", " ", "a", "n", "d", " ", "p", "o", "s", "i", "t", "i", "o", "n", " ", "i", "t", " ", "f", "a", "u", "l", "y", "Backspace", "t", "y", "Backspace", "l", "e", "s", "s", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "b", "v", "Backspace", "Backspace", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "e", "f", "f", "i", "c", "a", "c", "i", "o", "u", "s", " ", "p", "r", "o", "g", "r", "e", "s", "s", ".",  ]
+
+Task: 8
+WPM: 67
+Accuracy: 0.992537
+Incorrections: 1
+Time: 23.042412
+Clicks: [ "Left Shift", "C", "o", "n", "s", "i", "d", "e", "r", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "a", "l", "l", "e", "v", "i", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "e", "x", "i", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "n", "n", "u", "i", " ", "b", "u", "Backspace", "y", " ", "h", "o", "i", "s", "t", "i", "n", "g", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "b", "e", "y", "o", "r", ",", " ", "e", "n", "s", "u", "r", "i", "n", "g", " ", "i", "m", "p", "e", "c", "c", "a", "b", "l", "e", " ", "e", "Backspace", "a", "l", "i", "g", "n", "m", "e", "n", "t", ".",  ]
+
+Task: 9
+WPM: 53
+Accuracy: 0.963235
+Incorrections: 5
+Time: 25.042521
+Clicks: [ "Left Shift", "C", "a", "p", "a", "b", "l", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "t", "r", "a", "n", "m", "s", "Backspace", "Backspace", "s", "m", "o", "r", "Backspace", "g", "r", "i", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "t", "o", "r", "p", "[", "i", "d", " ", "r", "e", "Backspace", "Backspace", "Backspace", "r", "e", "s", "p", "o", "Backspace", "Backspace", "Backspace", "p", "o", "s", "e", " ", "i", "n", "t", "o", " ", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "a", "l", "c", "Backspace", "Backspace", "Backspace", "l", "k", "a", "c", "Backspace", "Backspace", "Backspace", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "r", "a", "t", "e", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "'", "Backspace", "r", " ", "w", "i", "t", "h", " ", "z", "e", "a", "l", "o", "u", "s", " ", "p", "r", "e", "c", "i", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 22
+Accuracy: 0.94958
+Incorrections: 6
+Time: 48.701563
+Clicks: [ "Left Shift", "S", "u", "e", "Backspace", "p", "o", "r", "e", "m", "Backspace", "Backspace", "Backspace", "Backspace", "r", "e", "m", "e", " ", "Left Shift", "C", "l", "a", "w", " ", "Backspace", "\", ",", " ", "l", "Backspace", "Backspace", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "d", "e", "p", "o", "i", "s", "t", "Backspace", "Backspace", "Backspace", "s", "i", "t", " ", "i", "t", " ", "o", "n", " ", "n", "t", "h", "b", "e", " ", "=", "Backspace", "Backspace", "Backspace", "c", "o", "n", "v", "e", "r", "Backspace", "y", "o", "r", " ", "w", "i", "t", "h", " ", "n", "o", "i", "c", "Backspace", "Backspace", "n", "c", "h", "a", "l", "a", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "q", "u", "i", "n", "e", "Backspace", "t", "e", "s", "s", "e", "n", "t", "i", "a", "l", " ", "e", "x", "a", "c", "t", "i", "t", "u", "d", "e", ".",  ]
+
+
+
+
+====================
+
+
+
+
+
+====================
+PARTICPANT #2.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 36
+Accuracy: 0.968085
+Incorrections: 3
+Time: 26.059374
+Clicks: [ "Left Shift", "P", "l", "e", "a", "s", "e", " ", "p", "i", "c", "k", " ", "u", "p", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "p", "l", "a", "c", "e", " ", "i", "t", " ", "i", "n", " ", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 52
+Accuracy: 0.989899
+Incorrections: 1
+Time: 21.593176
+Clicks: [ "Left Shift", "C", "a", "r", "e", "f", "u", "l", "l", "y", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "l", "o", "o", "r", " ", "a", "n", "d", " ", "c", "e", "n", "t", "e", "r", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "f", "i", "n", "i", "h", "h", " ", "t", "h", "e", " ", "t", "a", "s", "k", ".",  ]
+
+Task: 3
+WPM: 31
+Accuracy: 0.953704
+Incorrections: 5
+Time: 32.142967
+Clicks: [ "Left Shift", "S", "t", "a", "e", "d", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", ",", " ", "r", "a", "i", "s", " ", "i", " ", "t", " ", "s", "m", "o", "o", "t", "h", "l", "y", " ", "a", "n", "d", " ", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "q", "u", "a", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "b", "e", "f", "o", "r", "e", " ", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "e", "a", "d", ".",  ]
+
+Task: 4
+WPM: 44
+Accuracy: 0.982906
+Incorrections: 2
+Time: 29.115391
+Clicks: [ "Left Shift", "P", "a", "t", "i", "e", "n", "t", " ", "c", "l", "a", "w", ",", " ", "h", "e", "l", "p", " ", "r", "e", "s", "c", "u", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "i", "d", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", "s", " ", "i", "t", " ", "b", "r", "i", "s", "k", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "f", "o", "r", " ", "s", "w", "i", "d", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 1
+Accuracy: 0.803279
+Incorrections: 24
+Time: 38.893298
+Clicks: [ "Left Shift", "W", "i", "t", "h", "y", " ", "m", "e", "a", "s", "u", "r", "e", "d", " ", "f", "i", "n", "e", "s", "e", " ", "r", "r", "o", "b", "o", "t", "i", "c", " ", "l", "a", "w", "w", ",", " ", "e", "l", "e", "v", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "a", "l", "i", "o", "g", "i", "t", "t", " ", "g", "r", "a", "c", "e", "f", "u", "l", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "c", "o", "n", "t", "i", "n", "u", "e", " ", "w", "o", "r", "k", ".",  ]
+
+Task: 6
+WPM: 29
+Accuracy: 0.991736
+Incorrections: 1
+Time: 48.775818
+Clicks: [ "Left Shift", "C", "l", "a", "w", ",", " ", "i", "n", "d", "u", "l", "g", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", "-", "-", " ", "e", "x", "t", "r", "i", "c", "a", "t", "e", " ", "i", "t", " ", "g", "e", "n", "t", "l", "y", " ", "a", "n", "d", " ", "s", "i", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "t", "l", "y", " ", "u", "p", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "m", "e", "c", "h", "a", "n", "i", "s", "m", ".",  ]
+
+Task: 7
+WPM: 25
+Accuracy: 0.936508
+Incorrections: 8
+Time: 41.37521
+Clicks: [ "Left Shift", "E", "s", "t", "e", "e", "m", "e", "d", " ", "c", "l", "a", "w", ",", " ", "e", "m", "a", "n", "c", "i", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "s", "t", "a", "g", "n", "a", "t", "i", "o", "n", " ", "a", "n", "d", " ", "p", "o", "s", "i", "t", "i", "o", "n", " ", "i", "t", " ", "f", "a", "u", "l", "t", "l", "e", "s", "s", "l", "y", " ", "o", "n", "m", " ", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "e", "f", "f", "a", "c", "i", "o", "u", "s", "u", "s", " ", "p", "r", "o", "g", "r", "e", "s", "s", ".",  ]
+
+Task: 8
+WPM: 0
+Accuracy: 0.798507
+Incorrections: 27
+Time: 46.567998
+Clicks: [ "Left Shift", "C", "o", "n", "s", "i", "d", "e", "r", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "a", "l", "l", "u", "v", "i", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "e", "x", "i", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "n", "n", "u", "i", " ", "b", "n", "y", "h", "o", "i", "s", "i", "t", "n", "g", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "e", "n", "u", "r", "i", "n", "g", " ", "i", "m", "p", "e", "c", "c", "a", "b", "l", "e", "l", "e", "m", " ", "l", "i", "g", "n", "m", "e", "n", "t", ",",  ]
+
+Task: 9
+WPM: 28
+Accuracy: 0.963235
+Incorrections: 5
+Time: 47.465925
+Clicks: [ "Left Shift", "C", "a", "p", "a", "b", "l", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "t", "r", "a", "n", "s", "m", "o", "g", "r", "i", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "t", "o", "r", "p", "i", "d", " ", "r", "e", "p", "o", "s", "e", " ", "i", "n", "t", "o", " ", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "l", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "r", "a", "t", "l", "e", "y", " ", "o", "n", "t", "o", " ", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "z", "e", "a", "l", "o", "u", "s", " ", "p", "r", "e", "c", "i", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 34
+Accuracy: 0.97479
+Incorrections: 3
+Time: 36.226489
+Clicks: [ "Left Shift", "S", "u", "p", "r", "e", "m", "e", " ", "c", "l", "a", "w", ",", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "d", "e", "p", "o", "s", "i", "t", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "m", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "n", "o", "n", "c", "h", "a", "l", "a", "n", "t", " ", "p", "a", "n", "a", "c", "j", "e", " ", "a", "n", "d", " ", "q", "u", "i", "n", "t", "e", "s", "s", "e", "n", "t", "i", "a", "l", " ", "e", "x", "a", "c", "t", "i", "t", "u", "d", "e", ".",  ]
+
+
+
+
+====================
+
+
+
+
+====================
+PARTICPANT #3.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 42
+Accuracy: 1.0
+Incorrections: 0
+Time: 26.542655
+Clicks: [ "Left Shift", "P", "l", "e", "a", "s", "e", " ", "p", "i", "c", "k", " ", "u", "p", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "p", "l", "a", "c", "e", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "Backspace", "Backspace", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 40
+Accuracy: 0.979798
+Incorrections: 2
+Time: 26.633819
+Clicks: [ "Left Shift", "C", "a", "r", "e", "f", "u", "l", "l", "y", " ", "l", "f", "Backspace", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", "t", " ", "b", "Backspace", "Backspace", "Backspace", "b", " ", "Backspace", "b", "o", "x", " ", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "l", "o", "o", "d", " ", "a", "d", "Backspace", "n", "d", " ", "c", "e", "n", "t", "e", "r", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "p", "r", "Backspace", "Backspace", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "f", "i", "n", "i", "s", "h", " ", "t", "h", "e", " ", "t", "a", "s", "k", ".",  ]
+
+Task: 3
+WPM: 44
+Accuracy: 1.0
+Incorrections: 0
+Time: 29.459503
+Clicks: [ "Caps Lock", "Left Shift", "s", "T", "Backspace", "Backspace", "Caps Lock", "Left Shift", "S", "A", "t", "e", "Backspace", "Backspace", "Backspace", "t", "e", "a", "d", "y", " ", "a", "Backspace", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", ",", " ", "r", "a", "i", "s", "e", " ", "i", "t", " ", "s", "m", "o", "o", "t", "h", "l", "y", " ", "a", "n", "d", " ", "s", "r", "t", "t", "Backspace", "Backspace", "Backspace", "Backspace", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "q", "u", "a", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "b", "e", "f", "o", "r", "e", " ", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "e", "a", "d", ".",  ]
+
+Task: 4
+WPM: 38
+Accuracy: 0.982906
+Incorrections: 2
+Time: 33.974875
+Clicks: [ "Left Shift", "P", "a", "t", "i", "e", "n", "t", " ", "c", "l", "a", "w", ",", " ", "h", "e", "l", "p", " ", "r", "e", "s", "u", "Backspace", "c", "u", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "i", "d", "e", "l", "e", "Backspace", "Backspace", "Backspace", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", "s", " ", "i", "t", " ", "b", "r", "i", "u", "s", "Backspace", "Backspace", "s", "k", "l", "y", " ", "o", "n", "t", "o", "t", " ", "t", "h", "Backspace", "Backspace", "Backspace", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "p", "Backspace", "o", "r", " ", "b", "e", "l", "t", " ", "f", "o", "r", " ", "s", "w", "i", "f", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 54
+Accuracy: 0.991803
+Incorrections: 1
+Time: 26.075925
+Clicks: [ "Left Shift", "W", "i", "t", "h", " ", "m", "e", "a", "s", "u", "r", "e", "d", " ", "f", "i", "n", "e", "s", "s", "e", ",", " ", "r", "o", "b", "o", "t", "i", "c", " ", "c", "l", "a", "w", ",", " ", "e", "l", "e", "v", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "a", "l", "i", "g", "n", " ", "i", "t", " ", "g", "r", "a", "c", "e", "f", "u", "l", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "Backspace", "Backspace", "y", "o", "p", "r", " ", "Backspace", "Backspace", "Backspace", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "c", "o", "n", "t", "i", "n", "u", "e", " ", "w", "o", "r", "k", "l",  ]
+
+Task: 6
+WPM: 44
+Accuracy: 0.991736
+Incorrections: 1
+Time: 31.631586
+Clicks: [ "Left Shift", "C", "l", "a", "w", ",", " ", "i", "n", "d", "u", "l", "d", "g", "Backspace", "Backspace", "g", "f", "Backspace", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", " ", "-", " ", "e", "x", "t", "r", "i", "c", "a", "t", "e", " ", "i", "t", " ", "g", "e", "n", "t", "l", "y", " ", "a", "n", "d", " ", "s", "i", "o", "t", "u", "a", "Backspace", "Backspace", "Backspace", "Backspace", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "t", "y", "Backspace", "l", "y", " ", "u", "p", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "m", "e", "c", "h", "a", "n", "i", "s", "m", "/",  ]
+
+Task: 7
+WPM: 37
+Accuracy: 1.0
+Incorrections: 0
+Time: 40.616816
+Clicks: [ "Left Shift", "E", "s", "t", "e", "e", "m", "e", "d", " ", "c", "l", "a", "w", ",", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Left Shift", "C", "l", "a", "w", ",", " ", "e", "m", "a", "n", "c", "i", "p", "s", "Backspace", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "p", "Backspace", "x", " ", "f", "r", "o", "m", " ", "s", "t", "a", "g", "n", "a", "t", "i", "o", "n", " ", "a", "n", " ", "Backspace", "d", " ", "p", "o", "s", "i", "t", "i", "o", "n", " ", "i", "t", " ", "f", "a", "u", "l", "t", "l", "e", "s", "s", "l", "t", "Backspace", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "e", "f", "f", "i", "c", "a", "c", "i", "o", "s", "=", "u", "=", "=", "=", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "u", "s", " ", "p", "r", "o", "g", "r", "e", "s", "s", ".",  ]
+
+Task: 8
+WPM: 46
+Accuracy: 0.992537
+Incorrections: 1
+Time: 33.826124
+Clicks: [ "Left Shift", "C", "o", "n", "s", "i", "d", "e", "r", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "a", "l", "l", "e", "v", "i", "a", "t", "e", "r", " ", "Backspace", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "e", "x", "i", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "n", "n", "u", "i", " ", "b", "y", " ", "h", "o", "i", "s", "t", "i", "n", "g", " ", "i", "t", " ", "n", "e", "e", "Backspace", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "Backspace", "o", "r", ".", " ", "Backspace", "Backspace", ",", " ", "e", "n", "r", "Backspace", "s", "u", "r", "i", "n", "g", " ", "i", "m", "p", "e", "c", "c", "a", "b", "l", "e", " ", "a", "l", "i", "g", "n", "m", "e", "n", "t", ".",  ]
+
+Task: 9
+WPM: 41
+Accuracy: 1.0
+Incorrections: 0
+Time: 39.54144
+Clicks: [ "Left Shift", "C", "a", "p", "a", "b", "l", "e", " ", "c", "Backspace", "Left Shift", "C", "l", "a", "w", ",", " ", "t", "r", "a", "n", "s", "m", "o", "g", "r", "i", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "t", "o", "r", "p", "i", "d", " ", "r", "e", "p", "o", "s", "e", " ", "i", "n", "t", "o", " ", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "l", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "r", "a", "t", "e", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "Backspace", "Backspace", "y", "p", "o", "Backspace", "Backspace", "o", "r", " ", "w", "o", "i", "t", "Backspace", "Backspace", "Backspace", "i", "t", "h", " ", "z", "e", "a", "l", "o", "u", "s", " ", "[", "r", "Backspace", "Backspace", "p", "r", "e", "c", "i", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 40
+Accuracy: 0.983193
+Incorrections: 2
+Time: 32.709512
+Clicks: [ "Left Shift", "S", "u", "p", "r", "e", "m", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "l", "i", "f", "e", " ", "t", "h", "e", " ", "w", "o", "o", "f", "Backspace", "d", "e", "n", "m", " ", "b", "o", "x", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "b", "o", "x", " ", "a", "n", "d", " ", "d", "e", "p", "o", "s", "i", "t", " ", "t", "Backspace", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "p", "r", "Backspace", "Backspace", "o", "r", " ", "w", "i", "t", "h", " ", "n", "o", "n", "c", "h", "a", "l", "a", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "q", "u", "i", "n", "t", "e", "s", "s", "e", "n", "t", "i", "a", "l", " ", "e", "x", "a", "c", "t", "i", "t", "u", "d", "e", ".",  ]
+
+
+
+====================
+
+
+
+
+
+====================
+PARTICPANT #4.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 31
+Accuracy: 0.989362
+Incorrections: 1
+Time: 34.726146
+Clicks: [ "Left Shift", "P", "l", "e", "a", "s", "e", " ", "p", "i", "c", "k", " ", "u", "p", " ", "t", "h", "e", " ", "e", "Backspace", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "p", "l", "a", "c", "e", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "i", "Backspace", "p", "Backspace", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "m", "Backspace", "n", "v", "e", "y", "u", "Backspace", "e", "Backspace", "o", "r", "m", " ", "Backspace", "b", "e", "l", "t", " ", "t", "p", " ", "Backspace", "o", "Backspace", "Backspace", "o", " ", "s", "t", "a", "t", "Backspace", "r", "t", " ", "t", "h", "j", "e", "Backspace", "Backspace", "e", " ", "[", "Backspace", "p", "r", "o", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 36
+Accuracy: 1.0
+Incorrections: 0
+Time: 33.435184
+Clicks: [ "Left Shift", "C", "a", "r", "e", "f", "u", "l", "l", "y", " ", "l", "i", "f", " ", "t", "h", "t", "Backspace", "Backspace", "Backspace", "Backspace", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "Backspace", "Backspace", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "l", "o", "o", "r", " ", "a", "n", "d", " ", "c", "e", "n", "m", "Backspace", "t", "e", "r", " ", "o", "i", "Backspace", "Backspace", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "Backspace", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "p", "Backspace", "o", " ", "f", "i", "o", "n", "Backspace", "Backspace", "n", "i", "s", "h", " ", "t", "h", "e", " ", "t", "a", "s", "k", ".",  ]
+
+Task: 3
+WPM: 38
+Accuracy: 1.0
+Incorrections: 0
+Time: 33.74278
+Clicks: [ "Left Shift", "S", "t", "e", "a", "f", "d", "Backspace", "Backspace", "d", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "n", "e", " ", "Backspace", "Backspace", "Backspace", "e", "n", " ", "b", "o", "x", ",", " ", "a", "Backspace", "r", "o", "Backspace", "a", "i", "s", "e", " ", "i", "t", " ", "s", "m", ",", "Backspace", "m", "Backspace", "o", "o", "t", "h", "l", " ", "Backspace", "y", " ", "a", "n", "d", " ", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "q", "u", "a", "s", "r", "e", "l", "y", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "n", "Backspace", "b", "e", "f", "o", "r", "e", " ", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "e", "a", "f", "Backspace", "d", ".",  ]
+
+Task: 4
+WPM: 39
+Accuracy: 1.0
+Incorrections: 0
+Time: 36.234524
+Clicks: [ "Left Shift", "P", "a", "t", "i", "e", "r", "n", "Backspace", "Backspace", "n", "t", " ", "t", "Backspace", "Left Shift", "C", "l", "a", "w", " ", "Backspace", ",", " ", "h", "e", "l", "p", " ", "r", "e", "s", "c", "u", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "i", "d", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", " ", "Backspace", "s", "Backspace", "s", " ", "i", "t", " ", "b", "r", "i", "s", "k", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "o", "Backspace", "c", "o", "p", "Backspace", "n", "v", "e", "y", "o", "p", "r", "Backspace", "Backspace", "r", " ", "b", "e", "l", "t", " ", "f", "p", "o", "Backspace", "Backspace", "o", "r", " ", "s", "w", "i", "f", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 38
+Accuracy: 1.0
+Incorrections: 0
+Time: 38.334606
+Clicks: [ "Left Shift", "W", "i", "t", "h", " ", "m", "e", "a", "s", "u", "r", "e", " ", "Backspace", "d", " ", "r", "Backspace", "f", "i", "n", "e", "s", "s", "e", " ", "Backspace", ",", " ", "r", "o", "b", "o", "t", "i", "c", " ", "c", "l", "a", "w", "m", "Backspace", ",", " ", "e", "l", "e", "r", "Backspace", "e", "v", "Backspace", "Backspace", "v", "a", "t", "e", " ", "t", "j", "h", "e", " ", "Backspace", "Backspace", "Backspace", "Backspace", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "c", "x", "Backspace", "Backspace", "x", " ", "a", "n", "d", " ", "a", "l", "i", "g", "n", " ", "i", "t", " ", "w", "Backspace", "g", "r", "a", "c", "e", "f", "u", "l", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "v", "Backspace", "c", "o", "n", "v", "e", "o", "Backspace", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "c", "o", "n", "t", "i", "n", "u", "e", " ", "w", "o", "r", "l", "Backspace", "k", ".",  ]
+
+Task: 6
+WPM: 30
+Accuracy: 0.991736
+Incorrections: 1
+Time: 45.701445
+Clicks: [ "Left Shift", "C", "l", "a", " ", "Backspace", "w", ",", " ", "i", "n", "d", "l", "u", "g", "Backspace", "Backspace", "Backspace", "u", "l", "g", "e", " ", "t", "h", "e", "w", " ", "Backspace", "Backspace", "w", "o", "o", "Backspace", "Backspace", "Backspace", "w", " ", "Backspace", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", " ", "Backspace", " ", "-", " ", "e", "x", "t", "r", "i", "c", "i", "Backspace", "a", "t", "e", " ", "t", "Backspace", "i", "t", " ", "g", "e", "n", "t", "l", "y", " ", "o", "Backspace", "a", "n", "d", " ", "s", "i", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "t", "l", "y", " ", "u", "p", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "u", "Backspace", "o", "r", " ", "b", "e", "l", "t", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", " ", "m", "e", "c", "h", "a", "n", "i", "s", "m", ".",  ]
+
+Task: 7
+WPM: 40
+Accuracy: 1.0
+Incorrections: 0
+Time: 38.034742
+Clicks: [ "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "E", "s", "t", "e", "e", "m", "e", "f", " ", "Backspace", "Backspace", "d", " ", "c", "Backspace", "Left Shift", "C", "l", "a", "w", ",", " ", "e", "m", "a", "n", "c", "i", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "t", "Backspace", "s", "t", "a", "g", "n", "a", "t", "i", "o", "n", " ", "a", "n", "d", " ", "p", "o", "s", "i", "t", "i", "o", "n", " ", "i", "u", "t", " ", "Backspace", "Backspace", "Backspace", "t", " ", "f", "a", "u", "l", "t", "l", "e", "s", "s", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "t", "h", "e", " ", "Backspace", "Backspace", "Backspace", "Backspace", "e", "f", "f", "i", "c", "a", "c", "i", "o", "u", "s", " ", "p", "r", "o", "g", "r", "e", "s", "s", ".",  ]
+
+Task: 8
+WPM: 29
+Accuracy: 0.940299
+Incorrections: 8
+Time: 38.576334
+Clicks: [ "Left Shift", "C", "o", "n", "s", "i", "d", "e", "r", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "a", "l", "l", "e", "v", "a", "i", "t", "Backspace", "Backspace", "Backspace", "i", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "Backspace", "Backspace", "Backspace", "'", "s", " ", "e", "x", "i", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "n", "n", "u", "i", " ", "b", "y", " ", "h", "i", "o", "Backspace", "o", "i", "Backspace", "Backspace", "Backspace", "o", "i", "s", "t", "i", "n", "g", " ", "i", "t", " ", "n", "m", "e", "a", "Backspace", "Backspace", "Backspace", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "p", "o", "r", "Backspace", "Backspace", "Backspace", "r", "Backspace", "o", "r", " ", "Backspace", ",", " ", "e", "n", "s", "u", "r", "i", "n", "g", " ", "i", "m", "p", "e", "c", "c", "a", "b", "l", "e", " ", "a", "l", "l", "i", "g", "n", "m", "e", "n", "t",  ]
+
+Task: 9
+WPM: 34
+Accuracy: 1.0
+Incorrections: 0
+Time: 48.409943
+Clicks: [ " ", "Backspace", "Left Shift", "C", "p", "Backspace", "a", "p", "a", "b", "l", "e", " ", "Left Shift", "C", "l", "a", "w", " ", "Backspace", ",", " ", "Left Shift", "T", "Backspace", "t", "r", "a", "n", "s", "m", "o", "g", "r", "i", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "o", "Backspace", "t", "o", "p", "r", "Backspace", "Backspace", "r", "p", "i", "d", " ", "r", "e", "p", "o", "i", "s", "Backspace", "Backspace", "s", "e", " ", "i", "n", "t", "o", " ", "t", "h", "Backspace", "Backspace", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "l", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "a", "t", "Backspace", "r", "a", "Backspace", "Backspace", "r", "Backspace", "Backspace", "r", "a", "t", "e", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "v", "Backspace", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "z", "e", "a", "l", "o", "u", "s", " ", "p", "r", "e", "c", "i", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 28
+Accuracy: 0.991597
+Incorrections: 1
+Time: 48.951664
+Clicks: [ "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "S", "u", "p", "r", "e", "m", "e", " ", "c", "l", "a", "Backspace", "Backspace", "Backspace", "Left Shift", "C", "l", "a", "w", ",", " ", "l", "i", "g", "Backspace", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "f", " ", "d", "e", "p", "o", "s", "i", "t", " ", "i", "y", "t", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "a", "n", "d", "f", " ", "Backspace", "Backspace", "Backspace", "Backspace", "a", "n", "d", " ", "e", "d", "Backspace", "Backspace", "d", "e", "p", "o", "s", "i", "t", "i", "Backspace", "Backspace", "t", " ", "o", "i", "Backspace", "Backspace", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "m", "Backspace", "v", "e", "y", "o", "r", " ", "w", "i", "u", "t", "Backspace", "Backspace", "t", "h", " ", "t", "Backspace", "n", "o", "n", "c", "h", "a", "l", "a", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "t", "Backspace", "q", "u", "i", "n", "i", "t", "Backspace", "s", "e", "n", "i", "t", "a", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "t", "e", "s", "s", "e", "n", "t", "i", "a", "l", " ", "e", "x", "a", "c", "t", "i", "t", "u", "d", "e", ".",  ]
+
+
+
+
+====================
+
+
+
+
+====================
+PARTICPANT #5.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 29
+Accuracy: 0.989362
+Incorrections: 1
+Time: 37.301236
+Clicks: [ "Left Shift", "Left Shift", "Left Shift", "P", "l", "e", "s", "s", "Backspace", "Backspace", "a", "s", "e", " ", "[", "Backspace", "p", "i", "c", "k", " ", "u", "p", "o", " ", "Backspace", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "c", " ", "Backspace", "Backspace", "x", " ", "a", "n", "d", " ", "p", "l", "a", "f", "c", "Backspace", "Backspace", "c", "e", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "v", "e", "Backspace", "Backspace", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 39
+Accuracy: 1.0
+Incorrections: 0
+Time: 30.826083
+Clicks: [ "Left Shift", "C", "a", "s", "Backspace", "r", "e", "f", "u", "l", "l", "y", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "e", "Backspace", "w", "o", "o", "r", "Backspace", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "l", "o", "o", "r", " ", "a", "n", "d", " ", "c", "e", "n", "t", "e", "r", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "f", "i", "n", "i", "s", "h", " ", "t", "h", "e", " ", "t", "a", "s", "k", ".",  ]
+
+Task: 3
+WPM: 38
+Accuracy: 1.0
+Incorrections: 0
+Time: 34.043464
+Clicks: [ "Left Shift", "S", "t", "e", "a", "d", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "c", "Backspace", "x", " ", "Backspace", ",", " ", "r", "a", "i", "s", "e", " ", "i", "t", " ", "s", "m", "o", "o", "t", "h", "l", "y", " ", "a", "n", "d", " ", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "q", "u", "a", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "t", "Backspace", "y", "o", "r", " ", "b", "e", "l", "l", "Backspace", "t", " ", "b", "e", "f", "o", "r", "e", " ", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "e", "a", "d", ".",  ]
+
+Task: 4
+WPM: 34
+Accuracy: 1.0
+Incorrections: 0
+Time: 40.951369
+Clicks: [ "Left Shift", "P", "a", "t", "i", "e", "n", "t", " ", "Left Shift", "C", "l", "a", "r", "Backspace", "w", " ", "Backspace", ",", " ", "Left Shift", "h", "e", "l", "p", " ", "r", "e", "s", "c", "u", "r", "e", "Backspace", "e", "Backspace", "Backspace", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "i", "d", "e", "Backspace", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", "e", "Backspace", "s", " ", "i", "t", " ", "b", "r", "i", "s", "k", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", " ", "Backspace", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "f", "o", "r", " ", "t", "h", "Backspace", "Backspace", "s", "w", "i", "f", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 29
+Accuracy: 0.991803
+Incorrections: 1
+Time: 48.735207
+Clicks: [ "Left Shift", "Left Shift", "W", "i", "t", "h", " ", "m", "e", "a", "s", "u", "r", "e", "d", " ", "f", "i", "n", "e", "s", "s", "e", ".", "Backspace", ",", " ", "Left Shift", "r", "o", "b", "o", "t", "i", "c", " ", "c", "l", "a", "w", ",", " ", "e", "l", "e", "v", "e", "a", "Backspace", "Backspace", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "a", "l", "i", "g", "h", "Backspace", "n", " ", "i", "t", " ", "g", "r", "a", "c", "e", "f", "i", "l", "Backspace", "Backspace", "u", "l", "y", "Backspace", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "a", "n", "d", " ", "Backspace", "Backspace", "Backspace", "Backspace", "t", "o", " ", "c", "o", "n", "t", "i", "n", "e", "Backspace", "i", "e", "Backspace", "Backspace", "u", "e", " ", "w", "o", "r", "k", ",",  ]
+
+Task: 6
+WPM: 30
+Accuracy: 1.0
+Incorrections: 0
+Time: 48.283402
+Clicks: [ "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "C", "l", "a", "w", ",", " ", "i", "n", "f", "u", "Backspace", "Backspace", "d", "u", "l", "g", "e", " ", "t", "h", "e", " ", "w", "o", "o", "r", "Backspace", "d", "e", "n", " ", "b", "o", "c", "Backspace", "x", "'", "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", " ", "-", " ", "e", "c", "Backspace", "x", "t", "r", "a", "Backspace", "i", "c", "a", "t", "e", " ", "t", "Backspace", "o", "t", " ", "Backspace", "Backspace", "Backspace", "i", "t", " ", "g", "e", "n", "t", "l", "y", " ", "a", "n", "d", " ", "s", "i", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "t", "l", "y", " ", "u", "p", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "t", "Backspace", "r", " ", "m", "e", "c", "h", "a", "n", "i", "s", "m", ".",  ]
+
+Task: 7
+WPM: 33
+Accuracy: 1.0
+Incorrections: 0
+Time: 46.259688
+Clicks: [ "Left Shift", "E", "s", "e", "Backspace", "t", "e", "e", "m", "e", "d", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "e", "m", "a", "n", "i", "Backspace", "c", "i", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "c", "Backspace", "b", "o", "x", " ", "f", "r", "o", "m", " ", "s", "t", "a", "g", "n", "a", "t", "i", "o", "n", " ", "a", "n", "d", " ", "p", "r", "Backspace", "o", "s", "t", "Backspace", "i", "t", "i", "o", "n", " ", "i", "t", " ", "f", "a", "i", "Backspace", "u", "l", "t", "l", "e", "s", "s", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "v", "o", "Backspace", "Backspace", "c", "o", "n", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "e", "f", "f", "e", "Backspace", "i", "c", "a", "c", "i", "o", "u", "s", " ", "p", "r", "g", "Backspace", "o", "g", "r", "e", "s", "s", ".",  ]
+
+Task: 8
+WPM: 34
+Accuracy: 1.0
+Incorrections: 0
+Time: 46.868261
+Clicks: [ "Left Shift", "C", "o", "n", "s", "i", "f", "Backspace", "d", "e", "r", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "a", "l", "l", "e", "c", "Backspace", "v", "i", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "c", "Backspace", "x", "'", "s", " ", "e", "c", "Backspace", "x", "i", "t", "Backspace", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "n", "n", "i", "Backspace", "u", "o", "Backspace", "i", " ", "b", "y", " ", "h", "o", "i", "s", "t", "i", "n", "g", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "o", "Backspace", "c", "o", "n", "v", "e", "y", "o", "r", ",", " ", "e", "n", "s", "u", "r", "e", "Backspace", "i", "n", "g", " ", "i", "m", "p", "e", "c", "c", "a", "b", "l", "e", " ", "a", "l", "i", "g", "n", "m", "e", "n", "t", ".",  ]
+
+Task: 9
+WPM: 29
+Accuracy: 0.992647
+Incorrections: 1
+Time: 53.960105
+Clicks: [ "Left Shift", "C", "a", "p", "a", "b", "l", "e", " ", "Left Shift", "C", "l", "a", "c", "Backspace", "w", ",", " ", "t", "r", "a", "n", "s", "m", "o", "r", "Backspace", "g", "r", "i", "f", "t", " ", "Backspace", "Backspace", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "t", "o", "r", "p", "i", "c", "Backspace", "d", " ", "r", "e", "p", "o", "s", "e", " ", "i", "n", "t", "o", " ", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "l", "a", "v", "Backspace", "c", "e", "Backspace", "i", "n", "g", " ", "i", "t", " ", "a", "v", "v", "Backspace", "Backspace", "c", "c", "i", "Backspace", "i", "Backspace", "u", "r", "a", "t", "e", "l", "y", " ", "o", "n", " ", "t", "h", " ", "Backspace", "e", " ", "c", "o", "n", "v", "e", "y", "o", "t", "Backspace", "r", " ", "w", "i", "t", "h", " ", "z", "e", "a", "l", "o", "i", "s", "Backspace", "Backspace", "u", "s", " ", "p", "r", "e", "c", "i", "s", "i", "o", "n", ",",  ]
+
+Task: 10
+WPM: 33
+Accuracy: 1.0
+Incorrections: 0
+Time: 43.80151
+Clicks: [ "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "S", "u", "p", "r", "e", "m", "e", " ", "Left Shift", "C", "l", "a", "w", " ", "Backspace", ",", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "f", "e", "Backspace", "Backspace", "d", "e", "n", " ", "b", "o", "c", "Backspace", "x", " ", "a", "n", "d", " ", "d", "e", "p", "o", "s", "i", "t", " ", "i", "t", " ", "o", "n", " ", "t", "h", " ", "Backspace", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "n", "o", "n", "c", "h", "a", "l", "a", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "q", "u", "i", "n", "e", "Backspace", "t", "e", "s", "s", "e", "n", "t", "i", "a", "l", " ", "e", "x", "a", "c", "i", "Backspace", "t", "i", "t", "u", "s", "e", "Backspace", "Backspace", "f", "e", "Backspace", "Backspace", "d", "e", ".",  ]
+
+
+
+====================
+
+
+
+
+
+====================
+PARTICPANT #6.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 40
+Accuracy: 0.978723
+Incorrections: 2
+Time: 25.375777
+Clicks: [ "Left Shift", "P", "l", "e", "a", "s", "e", " ", "p", "i", "c", "k", " ", "u", "p", " ", "t", "h", "e", " ", "w", "q", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "p", "l", "a", "c", "e", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "i", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 39
+Accuracy: 0.979798
+Incorrections: 2
+Time: 27.709276
+Clicks: [ "Left Shift", "C", "a", "r", "e", "f", "u", "l", "l", "y", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "l", "o", "o", "r", " ", "a", "n", "d", " ", "c", "e", "n", "t", "e", "r", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", "i", " ", "i", "n", "i", "s", "h", " ", "t", "h", "e", " ", "t", "a", "s", "k", ".",  ]
+
+Task: 3
+WPM: 26
+Accuracy: 0.990741
+Incorrections: 1
+Time: 48.118583
+Clicks: [ "Left Shift", "S", "t", "e", "a", "d", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "Backspace", ",", " ", "r", "a", "i", "s", "e", " ", "i", "t", " ", "s", "m", "o", "o", "t", "h", "l", "y", " ", "a", "n", "d", "f", " ", "Backspace", "Backspace", " ", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "q", "u", "a", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "t", "Backspace", "y", "o", "r", " ", "b", "e", "l", "t", "h", " ", "b", "e", "f", "o", "r", "e", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "b", "e", "f", "o", "r", "e", " ", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "e", "a", "d", ".",  ]
+
+Task: 4
+WPM: 38
+Accuracy: 1.0
+Incorrections: 0
+Time: 36.63453
+Clicks: [ "Left Shift", "P", "a", "t", "e", "Backspace", "i", "e", "n", "c", "e", "Backspace", "t", "Backspace", "t", "Backspace", "Backspace", "t", " ", "Left Shift", "C", "l", "a", "w", " ", "Backspace", ",", " ", "h", "e", "l", "p", " ", "r", "e", "s", "c", "u", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "i", "d", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "i", "s", "h", "Backspace", "Backspace", "Backspace", "u", "s", "h", "e", "r", "s", " ", "i", "t", " ", "b", "r", "i", "s", "k", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "f", "o", "r", " ", "s", "w", "i", "f", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 31
+Accuracy: 0.991803
+Incorrections: 1
+Time: 45.577366
+Clicks: [ "Left Shift", "W", "i", "t", "h", " ", "e", "l", "Backspace", "Backspace", "Backspace", "m", "e", "a", "s", "u", "r", "e", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "m", "e", "r", "a", "u", "r", "e", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "a", "s", "u", "r", "e", "d", " ", "d", "i", "Backspace", "Backspace", "f", "i", "n", "e", "s", "s", "e", " ", "Backspace", ",", " ", "r", "o", "b", "o", "t", "i", "c", " ", "c", "l", "a", "w", ",", " ", "e", "l", "e", "v", "a", "t", "e", " ", "t", "r", "h", "e", "Backspace", "Backspace", "Backspace", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "a", "l", "i", "g", "n", " ", "i", "t", " ", "g", "r", "a", "c", "e", "f", "u", "l", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "c", "o", "n", "t", "i", "n", "u", "e", " ", "w", "o", "r", "k", ".",  ]
+
+Task: 6
+WPM: 32
+Accuracy: 1.0
+Incorrections: 0
+Time: 44.959895
+Clicks: [ "Left Shift", "C", "l", "a", "w", ",", " ", "i", "n", "d", "u", "l", "g", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "i", "Backspace", "u", "s", "t", " ", "-", " ", "e", "x", "t", "r", "i", "c", "a", "t", "e", " ", "i", "t", " ", "g", "e", "n", "t", "l", "y", " ", "a", "n", "d", " ", "s", "i", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "t", "l", "y", " ", "u", "p", "o", "p", "Backspace", "n", " ", "t", "h", "e", " ", "v", "c", "Backspace", "Backspace", "c", "o", "n", "v", "e", "y", "o", "r", " ", "m", "e", "c", "h", "a", "n", "o", "i", "Backspace", "Backspace", "i", "s", "m", ".",  ]
+
+Task: 7
+WPM: 32
+Accuracy: 1.0
+Incorrections: 0
+Time: 46.943196
+Clicks: [ "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "Left Shift", "E", "s", "t", "e", "e", "m", "e", "d", " ", "Left Shift", "C", "L", "a", "w", "Backspace", "Backspace", "Backspace", "l", "a", "w", " ", "Backspace", ",", " ", "e", "m", "a", "n", "c", "i", "a", "Backspace", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", "b", "Backspace", " ", "b", "o", "x", " ", "f", "r", "o", "n", "Backspace", "m", " ", "s", "t", "a", "g", "n", "b", "a", "t", "i", "o", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "a", "t", "y", "Backspace", "i", "o", "n", " ", "a", "n", "d", " ", "p", "o", "s", "i", "t", "i", "o", "n", " ", "i", "t", " ", "f", "a", "u", "l", "t", "l", "e", "s", "s", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "e", "f", "f", "i", "c", "a", "c", "i", "o", "u", "s", " ", "p", "r", "o", "g", "r", "e", "s", "s", ".",  ]
+
+Task: 8
+WPM: 36
+Accuracy: 1.0
+Incorrections: 0
+Time: 44.83478
+Clicks: [ "Left Shift", "C", "o", "n", "s", "i", "d", "e", "r", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "Left Shift", "a", "l", "l", "e", "c", "i", "a", "Backspace", "Backspace", "Backspace", "c", "Backspace", "v", "i", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "e", "x", "i", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "m", "Backspace", "n", "n", "i", "o", "Backspace", "Backspace", "u", "i", " ", "b", "y", " ", "h", "o", "i", "s", "t", "i", "n", "g", " ", "t", "Backspace", "i", "t", " ", "n", "e", "a", "r", "Backspace", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", ",", " ", "e", "n", "s", "u", "r", "i", "n", "g", " ", "i", "m", "p", "e", "c", "c", "a", "b", "l", "e", " ", "e", "l", "l", "i", "f", "Backspace", "g", "n", "m", "e", "Backspace", "=", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "a", "l", "i", "g", "n", "m", "e", "n", "t", ".",  ]
+
+Task: 9
+WPM: 35
+Accuracy: 1.0
+Incorrections: 0
+Time: 46.526512
+Clicks: [ "Left Shift", "C", "a", "p", "a", "b", "l", "e", " ", "Left Shift", "C", "l", "a", "w", " ", "Backspace", ",", " ", "t", "r", "a", "n", "s", "m", "o", "g", "r", "i", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "t", "o", "r", "p", "[", "Backspace", "i", "d", " ", "r", "e", "p", "o", "s", "e", " ", "i", "n", "b", "t", "o", "Backspace", "Backspace", "Backspace", "t", "o", " ", "m", "o", "c", "Backspace", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "a", "l", "c", "e", "Backspace", "Backspace", "Backspace", "Backspace", "l", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "r", "a", "t", "e", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "z", "e", "r", "Backspace", "a", "l", "o", "u", "s", " ", "p", "r", "e", "c", "i", "o", "Backspace", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 35
+Accuracy: 1.0
+Incorrections: 0
+Time: 40.368086
+Clicks: [ "Left Shift", "S", "u", "p", "r", "e", "m", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "l", "i", "f", "t", " ", "t", "y", "e", " ", "Backspace", "Backspace", "Backspace", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "b", "Backspace", "n", "d", " ", "d", "e", "p", "o", "s", "i", "t", " ", "i", "t", " ", "o", "n", " ", "t", "y", "e", " ", "Backspace", "Backspace", "Backspace", "Backspace", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "t", "Backspace", "r", " ", "w", "i", "t", "h", " ", "n", "o", "c", "h", "a", "l", "a", "n", "t", " ", "p", "a", "n", "a", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "n", "c", "h", "a", "l", "a", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "q", "u", "i", "n", "t", "e", "s", "s", "e", "n", "t", "i", "a", "l", " ", "e", "x", "e", "Backspace", "a", "c", "t", "i", "t", "u", "d", "e", ".",  ]
+
+
+
+====================
+
+
+
+
+
+====================
+PARTICPANT #7.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 0
+Accuracy: 0.340426
+Incorrections: 62
+Time: 42.738482
+Clicks: [ "h", "i", " ", "m", "y", " ", "n", "a", "m", "e", " ", "i", "s", " ", "s", "e", "q", "u", "o", "i", "a", " ", "Backspace", "Left Shift", "!", " ", "Left Shift", "I", " ", "a", "m", " ", "i", "n", " ", "m", " ", "Backspace", "Backspace", " ", "4", "6", "5", " ", "m", "u", "l", "t", "i", "m", "o", "d", "a", "l", "Left Shift", "!", " ", "Left Shift", "P", "k", "Backspace", "Backspace", "Left Shift", "O", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 34
+Accuracy: 0.969697
+Incorrections: 3
+Time: 29.850939
+Clicks: [ "a", "r", "Backspace", "Backspace", "Left Shift", "C", "a", "r", "e", "f", "u", "l", "l", "y", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "c", "Backspace", "x", " ", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "l", "o", "o", "r", " ", "a", "n", "d", " ", "c", "e", "n", "t", "e", "r", " ", "i", "o", "t", " ", "Backspace", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "Backspace", "y", "e", "Backspace", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "f", "i", "n", "i", "s", "h", " ", "t", "h", "y", "e", "Backspace", "e", "Backspace", "Backspace", "e", " ", "t", "a", "s", "k", "Left Shift", ">",  ]
+
+Task: 3
+WPM: 42
+Accuracy: 0.990741
+Incorrections: 1
+Time: 29.259318
+Clicks: [ "Left Shift", "S", "t", "e", "a", "d", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "Backspace", ",", " ", "r", "a", "i", "s", "e", " ", "i", "t", " ", "s", "m", "o", "o", "t", "h", "l", "y", " ", "a", "n", "d", " ", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "q", "u", "a", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "b", "e", "f", "o", "r", "e", " ", "r", "o", "l", "l", "i", "n", " ", "Backspace", "f", " ", "Backspace", "a", "Backspace", "Backspace", "g", " ", "a", "h", "e", "a", "d", "f",  ]
+
+Task: 4
+WPM: 45
+Accuracy: 1.0
+Incorrections: 0
+Time: 30.892732
+Clicks: [ "a", "t", "i", "e", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Left Shift", "P", "a", "t", "i", "e", "n", "t", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "Left Shift", "h", "e", "l", "p", " ", "r", "e", "s", "c", "u", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "i", "d", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", "s", " ", "i", "t", " ", "b", "r", "i", "s", "k", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "f", "o", "r", " ", "s", "w", "i", "f", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 38
+Accuracy: 0.967213
+Incorrections: 4
+Time: 32.601117
+Clicks: [ "Left Shift", "W", "i", "t", "h", " ", "m", "e", "a", "s", "u", "r", "e", "d", " ", "f", "i", "n", "e", "s", "s", "e", ",", " ", "r", "o", "b", "o", "t", "i", "c", " ", "c", "l", "a", "w", "m", " ", "e", "l", "e", "v", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "d", " ", "Backspace", "Backspace", "x", " ", "a", "n", "d", " ", "a", "l", "i", "g", "n", " ", "i", "t", " ", "g", "r", "a", "c", "e", "f", "u", "l", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "p", "r", " ", "e", "l", "t", " ", "t", "o", " ", "c", "o", "n", "t", "i", "n", "u", "e", " ", "w", "o", "r", "k", ".",  ]
+
+Task: 6
+WPM: 23
+Accuracy: 0.917355
+Incorrections: 10
+Time: 37.701449
+Clicks: [ "l", "a", "Backspace", "Backspace", "Backspace", "Left Shift", "C", "l", "a", "w", ",", " ", "i", "n", "d", "l", "Backspace", "u", "l", "g", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "Left Shift", """, "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", " ", "-", " ", "e", "x", "t", "r", "i", "c", "a", "t", "e", " ", "i", "t", " ", "g", "e", "n", "t", "l", "y", " ", "o", "Backspace", "a", "n", "d", " ", "s", "i", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "t", "l", "y", " ", "u", "p", "o", "n", " ", "t", "h", "e", "h", " ", "c", "o", "n", "v", "e", "y", "r", " ", "m", "e", "c", "h", "a", "n", "i", "s", "m", "Left Shift", ">",  ]
+
+Task: 7
+WPM: 34
+Accuracy: 0.968254
+Incorrections: 4
+Time: 37.026256
+Clicks: [ "Left Shift", "E", "s", "t", "e", "e", "m", "e", "d", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "e", "m", "a", "n", "c", "i", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", " ", "Backspace", "m", " ", "s", "t", "a", "g", "n", "a", "t", "i", "o", "n", " ", "a", "n", "d", " ", "p", "o", "s", "i", "t", "i", "o", "n", " ", "u", "t", " ", "f", "a", "u", "t", "l", "Backspace", "Backspace", "l", "t", "l", "e", "s", "s", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "e", "f", "f", "u", "c", "a", "c", "i", "o", "u", "s", " ", "p", "r", "o", "g", "r", "e", "e", "s", "Backspace", "s", "Left Shift", ">",  ]
+
+Task: 8
+WPM: 32
+Accuracy: 0.985075
+Incorrections: 2
+Time: 46.451584
+Clicks: [ "Left Shift", "C", "o", "n", "s", "i", "d", "r", "Backspace", "e", "r", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "e", "Backspace", "w", ",", " ", "a", "l", "l", "e", "v", "i", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "v", "Backspace", "b", "o", "x", "Left Shift", """, "s", " ", "e", "s", "Backspace", "x", "i", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "n", "u", "Backspace", "n", "i", "Backspace", "i", "o", "i", " ", "b", "y", " ", "h", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Left Shift", "U", "Backspace", "u", "i", " ", "b", "y", " ", "h", "o", "s", "Backspace", "i", "s", "t", "i", "n", "g", " ", "i", "t", " ", "n", "e", "a", "l", "Backspace", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", ",", " ", "e", "n", "s", "u", "r", "i", "n", "g", " ", "i", "m", "p", "e", "c", "c", "a", "b", "l", "e", " ", "a", "l", "i", "g", "n", "m", "e", "n", "t", "Left Shift", ">",  ]
+
+Task: 9
+WPM: 35
+Accuracy: 1.0
+Incorrections: 0
+Time: 46.676664
+Clicks: [ "Left Shift", "C", "a", "p", "a", "b", "l", "e", " ", "c", "l", "a", "Backspace", "Backspace", "Backspace", "Left Shift", "C", "l", "a", "w", "Left Shift", "Left Shift", "<", "Backspace", ",", " ", "t", "r", "a", "n", "s", "m", "o", "g", "r", "i", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "t", "p", "Backspace", "o", "p", "r", "Backspace", "Backspace", "r", "p", "i", "d", " ", "r", "e", "s", "p", "o", "Backspace", "Backspace", "Backspace", "p", "o", "s", "e", " ", "i", "n", "t", "o", " ", "t", "Backspace", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "l", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "r", "a", "t", "e", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "x", "x", "Backspace", "z", "Backspace", "Backspace", "z", "e", "a", "l", "o", "y", "s", "Backspace", "Backspace", "u", "s", " ", "p", "r", "e", "c", "i", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 34
+Accuracy: 1.0
+Incorrections: 0
+Time: 42.559748
+Clicks: [ "Left Shift", "S", "u", "r", "Backspace", "p", "r", "e", "m", "e", " ", "c", "Backspace", "Left Shift", "C", "l", "a", "s", "w", "Backspace", "Backspace", "w", ",", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "v", "Backspace", "b", "o", "x", " ", "a", "n", "d", " ", "d", "e", "p", "o", "s", "i", "t", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "=", "Backspace", "Backspace", "y", "o", "r", " ", "w", "i", "t", "h", " ", "n", "i", "Backspace", "o", "n", "c", "h", "a", "l", "a", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "w", "=", "q", "Backspace", "Backspace", "Backspace", "q", "u", "i", "n", "t", "e", "s", "s", "e", "s", "Backspace", "n", "t", "i", "a", "l", " ", "e", "x", "a", "c", "t", "u", "t", "Backspace", "Backspace", "i", "t", "t", "Backspace", "u", "d", "e", "Left Shift", ".",  ]
+
+
+
+
+====================
+
+
+
+
+====================
+PARTICPANT #8.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 81
+Accuracy: 1.0
+Incorrections: 0
+Time: 13.917175
+Clicks: [ "Left Shift", "P", "l", "e", "a", "w", "s", "Backspace", "Backspace", "s", "e", " ", "[", "o", "Backspace", "Backspace", "p", "i", "c", "k", " ", "u", "p", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "p", "l", "a", "c", "e", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "Backspace", "Backspace", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 99
+Accuracy: 1.0
+Incorrections: 0
+Time: 12.050409
+Clicks: [ "Left Shift", "C", "a", "r", "e", "f", "u", "l", "l", "y", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "l", "o", "o", "r", " ", "a", "n", "d", " ", "c", "e", "n", "t", "e", "r", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "e", "Backspace", "c", "o", "n", "v", "e", "r", "Backspace", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "f", "i", "n", "i", "s", "h", " ", "t", "h", "e", " ", "t", "a", "s", "k", ".",  ]
+
+Task: 3
+WPM: 99
+Accuracy: 1.0
+Incorrections: 0
+Time: 13.150366
+Clicks: [ "Left Shift", "S", "t", "e", "a", "d", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", ",", " ", "r", "a", "i", "s", "e", " ", "i", "t", " ", "s", "m", "o", "o", "t", "h", "l", "y", " ", "a", "n", "d", " ", "s", "t", "Backspace", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "q", "u", "a", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "Backspace", "y", "o", "r", " ", "b", "e", "l", "t", " ", "b", "e", "f", "o", "r", "e", " ", "t", "Backspace", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "e", "a", "d", ".",  ]
+
+Task: 4
+WPM: 89
+Accuracy: 1.0
+Incorrections: 0
+Time: 15.833855
+Clicks: [ "Left Shift", "P", "a", "t", "i", "e", "n", "t", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "Left Shift", "h", "e", "l", "p", " ", "r", "e", "s", "c", "u", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "i", "d", "e", "n", "Backspace", "Backspace", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", "s", " ", "i", "t", " ", "b", "r", "i", "s", "k", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "f", "o", "r", " ", "s", "w", "i", "f", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 73
+Accuracy: 1.0
+Incorrections: 0
+Time: 20.009097
+Clicks: [ "Left Shift", "M", "Backspace", "Left Shift", "W", "i", "t", "h", " ", "m", "e", "a", "s", "u", "r", "e", "d", " ", "f", "i", "n", "e", "s", "s", "e", ",", " ", "r", "o", "b", "i", "Backspace", "o", "t", "i", "c", " ", "c", "l", "a", "w", ".", "Backspace", ",", " ", "e", "v", "l", "Backspace", "Backspace", "l", "e", "v", "e", "Backspace", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "a", "l", "i", "g", "h", "Backspace", "n", " ", "i", "t", " ", "g", "r", "a", "c", "e", "f", "u", "l", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "c", "o", "n", "t", "i", "n", "u", "e", " ", "w", "o", "r", "k", ".",  ]
+
+Task: 6
+WPM: 93
+Accuracy: 1.0
+Incorrections: 0
+Time: 15.658808
+Clicks: [ "Left Shift", "C", "l", "a", "w", ",", " ", "i", "n", "d", "u", "l", "g", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", " ", "-", " ", "e", "x", "t", "r", "i", "c", "a", "t", "e", " ", "i", "t", " ", "g", "e", "n", "t", "l", "y", " ", "a", "n", "d", " ", "s", "i", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "t", "l", "y", " ", "u", "p", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "e", "Backspace", "v", "e", "y", "o", "r", " ", "m", "e", "c", "h", "a", "n", "i", "s", "m", ".",  ]
+
+Task: 7
+WPM: 85
+Accuracy: 1.0
+Incorrections: 0
+Time: 17.81724
+Clicks: [ "Left Shift", "E", "s", "t", "e", "e", "m", "e", "d", " ", "c", "Backspace", "Left Shift", "C", "l", "a", "w", ",", " ", "e", "s", "m", "Backspace", "Backspace", "m", "a", "n", "s", "i", "Backspace", "Backspace", "c", "i", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "s", "t", "a", "g", "n", "a", "t", "i", "o", "n", " ", "a", "n", "d", " ", "p", "o", "s", "i", "t", "i", "o", "n", " ", "i", "t", " ", "f", "a", "u", "l", "t", "l", "e", "s", "s", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "e", "f", "f", "i", "c", "a", "c", "i", "o", "u", "s", " ", "p", "r", "o", "g", "e", "s", "Backspace", "Backspace", "r", "e", "s", "s", ".",  ]
+
+Task: 8
+WPM: 77
+Accuracy: 1.0
+Incorrections: 0
+Time: 20.850696
+Clicks: [ "Left Shift", "C", "o", "n", "s", "i", "d", "e", "r", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "a", "l", "l", "e", "v", "i", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "e", "x", "i", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "n", "n", "u", "i", " ", "b", "y", " ", "h", "o", "i", "s", "t", "i", "n", "g", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "i", "n", "t", "Backspace", "Backspace", "Backspace", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", ",", " ", "e", "n", "s", "u", "r", "e", "i", "n", "g", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "i", "n", "g", " ", "e", "m", "p", "Backspace", "Backspace", "Backspace", "i", "m", "p", "e", "c", "c", "a", "b", "l", "e", " ", "a", "l", "i", "g", "n", "m", "e", "n", "t", ".",  ]
+
+Task: 9
+WPM: 76
+Accuracy: 1.0
+Incorrections: 0
+Time: 21.534004
+Clicks: [ "Left Shift", "C", "p", "a", "b", "Backspace", "Backspace", "Backspace", "a", "p", "a", "b", "l", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "t", "r", "a", "n", "s", "m", "o", "r", "g", "Backspace", "Backspace", "r", "Backspace", "g", "r", "i", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "t", "o", "r", "p", "i", "d", " ", "r", "e", "p", "o", "s", "e", " ", "i", "n", "t", "o", " ", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "l", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "r", "a", "e", "Backspace", "t", "e", "y", "l", "Backspace", "Backspace", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "z", "e", "a", "l", "o", "u", "s", " ", "p", "r", "e", "c", "i", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 73
+Accuracy: 1.0
+Incorrections: 0
+Time: 19.44231
+Clicks: [ "Left Shift", "S", "u", "p", "r", "m", "e", "Backspace", "Backspace", "e", "m", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "l", "i", "s", "Backspace", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "d", "e", "p", "o", "s", "i", "t", " ", "i", "t", " ", "i", "n", " ", "Backspace", "Backspace", "Backspace", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "n", "o", "n", "c", "h", "a", "l", "e", "Backspace", "a", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "q", "u", "i", "n", "t", "e", "s", "s", "e", "n", "t", "i", "a", "l", " ", "e", "x", "a", "c", "t", "i", "d", "u", "d", "Backspace", "Backspace", "Backspace", "Backspace", "i", "t", "u", "d", "e", ".",  ]
+
+
+
+
+====================
+
+
+
+
+====================
+PARTICPANT #9.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 44
+Accuracy: 0.989362
+Incorrections: 1
+Time: 24.142423
+Clicks: [ "p", "l", "Backspace", "Backspace", "Left Shift", "P", "l", "e", "a", "s", "e", " ", "p", "i", "k", " ", "Backspace", "Backspace", "Backspace", "i", "c", "k", " ", "u", "p", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "k", "Backspace", "x", " ", "a", "n", "d", " ", "p", "l", "a", "c", "e", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "t", "Backspace", "c", "o", "n", "v", "e", "r", "Backspace", "y", "e", "r", " ", "Backspace", "Backspace", "Backspace", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "c", "e", "s", "s", "/",  ]
+
+Task: 2
+WPM: 45
+Accuracy: 0.989899
+Incorrections: 1
+Time: 24.967544
+Clicks: [ "Backspace", "c", "a", "r", "Backspace", "Backspace", "Backspace", "Backspace", "Right Shift", "C", "a", "r", "e", "f", "u", "l", "l", "y", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "f", "r", "Backspace", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "o", "Backspace", "l", "o", "o", "r", " ", "a", "n", "d", " ", "c", "e", "n", "t", "e", "r", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "Backspace", "Backspace", "y", "e", "r", " ", "Backspace", "Backspace", "o", "Backspace", "Backspace", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "f", "i", "n", "i", "s", "h", " ", "t", "h", "e", " ", "t", "a", "s", "k", ".",  ]
+
+Task: 3
+WPM: 57
+Accuracy: 0.990741
+Incorrections: 1
+Time: 21.558966
+Clicks: [ "Right Shift", "S", "t", "e", "a", "d", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", ",", " ", "r", "a", "i", "s", "e", " ", "i", "t", " ", "s", "m", "o", "o", "t", "h", "l", "y", " ", "a", "n", "d", " ", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "q", "u", "a", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "Backspace", "y", "e", "r", " ", "Backspace", "Backspace", "o", "r", " ", "Backspace", "Backspace", "Backspace", "Backspace", "o", "r", " ", "b", "e", "l", "t", " ", "b", "e", "f", "o", "r", "e", " ", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "e", "a", "d", " ",  ]
+
+Task: 4
+WPM: 47
+Accuracy: 1.0
+Incorrections: 0
+Time: 29.667586
+Clicks: [ "Backspace", "Right Shift", "P", "a", "t", "i", "e", "n", "t", " ", "c", "l", "a", "Backspace", "Backspace", "Backspace", "Right Shift", "C", "l", "a", "s", "Backspace", "w", ",", " ", "h", "e", "l", "p", " ", "r", "e", "s", "c", "u", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "i", "d", "e", "Backspace", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", "s", " ", "t", "Backspace", "i", "t", " ", "b", "r", "i", "s", "k", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "Backspace", "y", "e", "r", "Backspace", "Backspace", "o", "r", " ", "b", "e", "l", "t", " ", "f", "o", "r", " ", "s", "w", "i", "t", "Backspace", "f", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 55
+Accuracy: 1.0
+Incorrections: 0
+Time: 26.860428
+Clicks: [ "Right Shift", "W", "t", "Backspace", "i", "t", "h", " ", "m", "e", "a", "s", "u", "r", "e", "d", " ", "f", "i", "t", "Backspace", "n", "e", "s", "s", "e", " ", "Backspace", ",", " ", "r", "o", "b", "o", "t", "i", "c", " ", "c", "l", "a", "w", ",", " ", "e", "l", "e", "v", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "a", "l", "i", "g", "n", " ", "i", "t", " ", "g", "r", "a", "c", "e", "f", "u", "l", "l", " ", "Backspace", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "e", "r", " ", "Backspace", "Backspace", "Backspace", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "c", "o", "n", "t", "i", "n", "u", "e", " ", "w", "o", "r", "k", ".",  ]
+
+Task: 6
+WPM: 46
+Accuracy: 1.0
+Incorrections: 0
+Time: 31.301021
+Clicks: [ "Backspace", "Right Shift", "C", "a", "Backspace", "l", "a", "w", " ", "Backspace", ",", " ", "i", "n", "d", "u", "l", "d", "Backspace", "g", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", " ", "-", " ", "e", "x", "t", "r", "i", "c", "a", "t", "e", " ", "i", "t", " ", "g", "e", "n", "t", "y", "l", "Backspace", "Backspace", "l", "y", " ", "a", "n", "d", " ", "s", "u", "t", "Backspace", "Backspace", "i", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "t", "l", "y", " ", "u", "p", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "Backspace", "y", "o", "r", " ", "b", "Backspace", "m", "e", "c", "h", "a", "n", "i", "s", "m", ".",  ]
+
+Task: 7
+WPM: 46
+Accuracy: 0.992063
+Incorrections: 1
+Time: 31.592781
+Clicks: [ "Right Shift", "E", "s", "t", "e", "e", "m", "e", "d", " ", "c", "Backspace", "Right Shift", "C", "l", "a", "w", ",", " ", "e", "m", "a", "n", "c", "i", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "s", "t", "a", "g", "n", "a", "t", "i", "o", "n", " ", "a", "n", "d", " ", "p", "r", "Backspace", "o", "s", "i", "t", "i", "o", "n", " ", "i", "t", " ", "f", "a", "u", "l", "t", "l", "e", "n", "Backspace", "s", "s", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "o", "c", "Backspace", "Backspace", "c", "o", "n", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "e", "f", "f", "i", "c", "a", "c", "i", "o", "u", "s", " ", "p", "r", "o", "g", "r", "e", "s", "s", "/",  ]
+
+Task: 8
+WPM: 41
+Accuracy: 1.0
+Incorrections: 0
+Time: 39.201172
+Clicks: [ "Backspace", "Right Shift", "C", "o", "n", "s", "i", "d", "e", "r", "a", "t", "e", " ", "Right Shift", "C", "l", "a", "w", ",", " ", "a", "l", "l", "e", "v", "i", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "e", "x", "i", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "n", "u", "Backspace", "n", "u", "i", " ", "b", "y", " ", "h", "o", "l", "s", "Backspace", "Backspace", "i", "s", "t", "i", "n", "g", " ", "i", "t", " ", "n", "e", "a", "r", "l", "y", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "a", "t", "y", "l", "Backspace", "Backspace", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", ",", " ", "e", "n", "s", "u", "r", "i", "n", "g", " ", "t", "Backspace", "i", "m", "p", "e", "a", "c", "h", "Backspace", "Backspace", "Backspace", "c", "c", "a", "b", "l", "e", " ", "a", "l", "l", "Backspace", "i", "g", "n", "m", "e", "n", "t", ".",  ]
+
+Task: 9
+WPM: 45
+Accuracy: 1.0
+Incorrections: 0
+Time: 36.567828
+Clicks: [ "Backspace", "Right Shift", "C", "a", "p", "a", "b", "l", "e", " ", "Right Shift", "C", "l", "a", "w", "m", "Backspace", ",", " ", "t", "r", "a", "n", "s", "m", "o", "g", "r", "i", "p", "Backspace", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "t", "o", "r", "p", "i", "d", " ", "r", "e", "p", "o", "s", "e", " ", "i", "n", "o", "Backspace", "t", "o", " ", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "l", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "r", "a", "t", "l", "y", " ", "Backspace", "Backspace", "Backspace", "e", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "o", "c", "Backspace", "Backspace", "c", "o", "n", "v", "e", "t", "Backspace", "y", "o", "r", " ", "w", "i", "t", "h", " ", "z", "e", "l", "Backspace", "a", "l", "o", "u", "s", " ", "p", "r", "Backspace", "r", "e", "c", "i", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 39
+Accuracy: 0.991597
+Incorrections: 1
+Time: 34.812468
+Clicks: [ "Right Shift", "S", "u", "p", "r", "e", "m", "e", " ", "Right Shift", "C", "l", "a", "w", ",", " ", "l", "i", "s", "Backspace", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "e", "Backspace", "d", "e", "p", "o", "s", "i", "t", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "n", "o", "c", "h", "Backspace", "Backspace", "n", "c", "h", "g", "Backspace", "a", "l", "a", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "q", "u", "i", "n", "t", "e", "s", "s", "e", "n", "t", "i", "a", "l", " ", "e", "x", "c", "Backspace", "a", "c", "u", "Backspace", "t", "i", "u", "Backspace", "t", "u", "d", "e", ",",  ]
+
+
+
+
+====================
+
+
+
+====================
+PARTICPANT #10.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 65
+Accuracy: 0.989362
+Incorrections: 1
+Time: 16.367154
+Clicks: [ "Left Shift", "P", "l", "e", "a", "s", "e", " ", "p", "i", "c", "k", " ", "u", "p", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", " ", "Backspace", "x", " ", "a", "n", "d", " ", "p", "l", "a", "c", "e", " ", "i", "t", " ", "n", "e", "a", "r", "l", "Backspace", "Backspace", "t", "l", "y", " ", "Backspace", "o", "n", "t", "o", "Backspace", "Backspace", "Backspace", "o", "n", "t", "t", "Backspace", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "o", "Backspace", "Backspace", "Backspace", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "v", "c", "Backspace", "Backspace", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 40
+Accuracy: 0.959596
+Incorrections: 4
+Time: 23.692398
+Clicks: [ "Left Shift", "C", "a", "r", "e", "f", "i", "l", "l", "y", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "b", " ", "o", "Backspace", "b", "o", " ", "f", "r", "o", "m", " ", "t", "h", "e", " ", "p", "p", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "x", " ", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "l", "o", "o", "r", " ", "a", "n", "d", " ", "e", "Backspace", "c", "e", "n", "e", "r", " ", "i", "t", " ", "o", "n", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "t", "e", "r", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "r", "Backspace", "e", "y", "o", "t", " ", "Backspace", "Backspace", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "t", "Backspace", "f", "i", "n", "i", "s", "h", " ", "t", "h", "e", " ", "t", "a", "l", "s", ".",  ]
+
+Task: 3
+WPM: 34
+Accuracy: 0.944444
+Incorrections: 6
+Time: 27.88434
+Clicks: [ "Backspace", "Left Shift", "S", "t", "r", "Backspace", "e", "a", "d", "y", " ", "t", "j", "e", " ", "Backspace", "Backspace", "Backspace", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", ",", " ", "r", "t", "Backspace", "a", "i", "s", "e", " ", "i", "t", " ", "s", "m", "o", "o", "t", "h", "l", " ", "Backspace", "Backspace", "y", "Backspace", "Backspace", "l", "y", ",", "Backspace", "Backspace", "Backspace", "h", "l", "y", ",", " ", "Backspace", "Backspace", "a", "n", "d", " ", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "a", "n", "d", " ", "s", "e", "t", "t", "i", "Backspace", "l", "e", " ", "i", "t", " ", "s", "q", "u", "a", "r", "e", "l", "y", " ", "o", "n", "t", "o", "p", " ", "t", "h", "e", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "b", "e", "f", "o", "r", "e", " ", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "r", "e", "a", "d",  ]
+
+Task: 4
+WPM: 50
+Accuracy: 0.991453
+Incorrections: 1
+Time: 26.67581
+Clicks: [ "Left Shift", "P", "a", "t", "i", "e", "n", "t", " ", "c", "l", "a", "Backspace", "Backspace", "Backspace", "Left Shift", "C", "l", "a", "w", ",", " ", "h", "e", "l", "p", " ", "r", "e", "a", "s", "u", "i", "e", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "s", "u", "e", " ", "Backspace", "Backspace", "Backspace", "c", "u", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "m", "Backspace", "o", "m", " ", "i", "d", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", "s", " ", "i", "t", " ", "b", "r", "i", "s", "k", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "o", "r", " ", "b", "e", "l", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "y", "o", "r", " ", "b", "e", "k", "t", "Backspace", "Backspace", "l", "t", " ", "f", "r", "o", "Backspace", "Backspace", "o", "r", " ", "s", "w", "i", "f", "y", " ", "Backspace", "Backspace", "t", "y", " ", "Backspace", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 55
+Accuracy: 0.991803
+Incorrections: 1
+Time: 25.384103
+Clicks: [ "Left Shift", "W", "i", "t", "h", " ", "m", "e", "a", "s", "u", "r", "e", "d", " ", "f", "i", "n", "e", "s", "s", "e", " ", "Backspace", "l", ",", "Backspace", ",", "Backspace", "Backspace", "Backspace", "e", ",", " ", "r", "o", "b", "o", "t", "i", "c", " ", "c", "l", "a", "w", ",", ".", " ", "Backspace", "e", "l", "e", "v", "a", "t", "e", " ", "t", "h", "e", " ", "e", "w", "Backspace", "Backspace", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "a", "l", "i", "n", "Backspace", "g", "n", " ", "i", "t", " ", "g", "r", "a", "c", "e", "f", "u", "l", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "b", "Backspace", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "c", "o", "n", "t", "o", "n", "Backspace", "Backspace", "i", "n", "u", "e", " ", "w", "o", "r", "k", ".",  ]
+
+Task: 6
+WPM: 46
+Accuracy: 0.991736
+Incorrections: 1
+Time: 30.295361
+Clicks: [ "Left Shift", "C", "a", "Backspace", "l", "a", "w", ",", " ", "i", "n", "u", "Backspace", "d", "u", "l", "d", "Backspace", "g", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "l", "s", "Backspace", "Backspace", "'", "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", " ", "-", " ", "e", "x", "t", "r", "i", "c", "a", "t", " ", "e", "Backspace", "e", "Backspace", "Backspace", "e", " ", "i", "t", " ", "g", "e", "n", "t", "l", "y", "u", " ", "a", "Backspace", "Backspace", "a", "n", "d", " ", "s", "i", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "l", "y", " ", "Backspace", "Backspace", "Backspace", "t", "l", "y", " ", "u", "p", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "o", "r", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "y", "o", "r", " ", "m", "e", "c", "h", "a", "n", "i", "s", "m", ".",  ]
+
+Task: 7
+WPM: 59
+Accuracy: 1.0
+Incorrections: 0
+Time: 25.584251
+Clicks: [ "Left Shift", "E", "s", "t", "e", "e", "m", "e", "s", " ", "Backspace", "Backspace", "Left Shift", " ", "Backspace", "d", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "e", "m", "a", "n", "i", "Backspace", "c", "i", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "i", "m", " ", "Backspace", "Backspace", "m", "Backspace", "Backspace", "m", " ", "s", "t", "a", "g", "n", "a", "t", "i", "o", "n", " ", "a", "n", "d", " ", "p", "o", "s", "i", "t", "i", "o", "n", " ", "i", "t", " ", "f", "a", "u", "l", "t", "l", "e", "s", "s", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "e", "Backspace", "o", "n", "v", "e", "o", "y", "Backspace", "Backspace", "o", "Backspace", "y", "o", "r", " ", "o", "Backspace", "f", "o", "r", " ", "t", "h", "e", " ", "Backspace", "Backspace", "Backspace", "Backspace", "e", "f", "f", "i", "c", "i", "Backspace", "a", "c", "i", "o", "u", "s", " ", "p", "r", "o", "g", "r", "e", "s", "s", ".",  ]
+
+Task: 8
+WPM: 47
+Accuracy: 1.0
+Incorrections: 0
+Time: 34.3678
+Clicks: [ "Left Shift", "C", "o", "s", "Backspace", "n", "s", "i", "d", "e", "r", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "a", "l", "l", "e", "v", "i", "a", "e", " ", "Backspace", "Backspace", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "e", "x", "i", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "n", "n", "u", "i", " ", "b", "t", "y", " ", "Backspace", "Backspace", "Backspace", "y", " ", "h", "o", "i", "s", "t", "i", "n", "g", " ", "i", "t", " ", "n", "e", "a", "r", "l", "y", " ", "Backspace", "Backspace", "Backspace", "Backspace", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", ",", " ", "e", "n", "s", "u", "r", "i", "n", "g", " ", "i", "m", "p", "e", "c", "c", "a", "n", "b", "l", "e", "Backspace", "Backspace", "Backspace", "b", "Backspace", "Backspace", "b", "l", "e", " ", "a", "l", "i", "g", "n", "m", "e", "n", "t", ".",  ]
+
+Task: 9
+WPM: 39
+Accuracy: 0.992647
+Incorrections: 1
+Time: 40.018021
+Clicks: [ "Left Shift", "C", "a", "p", "a", "b", "l", "e", " ", "Left Shift", "C", "a", "l", "w", "Backspace", "Backspace", "Backspace", "l", "a", "w", ",", " ", "t", "r", "a", "n", "s", "m", "o", "i", "Backspace", "g", "r", "i", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", ".", "Backspace", "'", "s", " ", "t", "p", "r", "Backspace", "Backspace", "o", "r", "p", "i", "d", " ", "r", "e", "p", "o", "s", "e", " ", "i", "n", "t", "o", " ", "t", "h", "e", " ", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "m", "m", "o", "v", "e", "Backspace", "Backspace", "Backspace", "Backspace", "o", "v", "e", "n", "Backspace", "m", "e", "n", " ", "Backspace", "t", " ", "b", "y", " ", "p", "l", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "a", "Backspace", "r", "a", "t", "l", "Backspace", "e", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "w", "Backspace", "c", "p", "o", "Backspace", "Backspace", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "z", "e", "a", "l", "o", "u", "s", " ", "p", "r", "e", "c", "i", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 55
+Accuracy: 1.0
+Incorrections: 0
+Time: 26.142491
+Clicks: [ "Left Shift", "S", "u", "p", "r", "e", "m", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "d", "e", "p", "o", "s", "i", "t", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "y", "o", "Backspace", "Backspace", "Backspace", "o", "y", "Backspace", "Backspace", "y", "o", "r", " ", "w", "i", "t", "h", " ", "n", "o", "n", "c", "a", "h", "Backspace", "h", "Backspace", "Backspace", "h", "a", "l", "a", "m", "n", "e", "Backspace", "Backspace", "n", "t", "Backspace", "Backspace", "Backspace", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "q", "u", "i", "n", "t", "e", "s", "s", "e", "n", "t", "u", "i", "a", "l", "Backspace", "Backspace", "Backspace", "Backspace", "i", "a", "l", " ", "e", "c", "Backspace", "x", "a", "c", "t", "i", "t", "u", "d", "e", ".",  ]
+
+
+
+
+====================
+
+
+
+
+====================
+PARTICPANT #11.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 50
+Accuracy: 1.0
+Incorrections: 0
+Time: 22.567382
+Clicks: [ "Left Shift", "P", "l", "e", "a", "s", "e", " ", "p", "i", "c", "k", " ", "u", "p", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "p", "l", "a", "c", "e", "s", " ", "i", "Backspace", "Backspace", "i", "o", "t", "Backspace", "t", "Backspace", "Backspace", "Backspace", "Backspace", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "Backspace", "y", "o", "r", " ", "b", "l", "e", "Backspace", "Backspace", "e", "l", "t", "h", "Backspace", " ", "t", "o", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 55
+Accuracy: 1.0
+Incorrections: 0
+Time: 21.643329
+Clicks: [ "Left Shift", "C", "a", "r", "e", "f", "u", "l", "l", "y", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "t", "h", "e", " ", "f", "l", "o", "o", "t", "r", "Backspace", "r", "Backspace", "Backspace", "r", " ", "a", "n", "d", " ", "c", "e", "n", "t", "e", "r", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "o", "Backspace", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "f", "i", "n", "i", "s", "h", " ", "t", "h", "e", "Backspace", "Backspace", "h", "e", " ", "t", "a", "s", "k", ".",  ]
+
+Task: 3
+WPM: 61
+Accuracy: 1.0
+Incorrections: 0
+Time: 21.109033
+Clicks: [ "Left Shift", "S", "t", "e", "a", "d", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "Backspace", "l", ",", "Backspace", ",", "Backspace", "Backspace", ",", " ", "r", "a", "i", "s", "e", " ", "i", "t", " ", "s", "m", "o", "o", "t", "h", "l", "y", " ", "a", "n", "d", " ", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "q", "y", "u", "Backspace", "Backspace", "u", "a", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "b", "e", "f", "o", "r", "e", " ", "t", "Backspace", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "e", "a", "d", ".",  ]
+
+Task: 4
+WPM: 54
+Accuracy: 1.0
+Incorrections: 0
+Time: 25.851143
+Clicks: [ "Left Shift", "P", "Backspace", "Backspace", "Left Shift", "P", "a", "t", "e", "i", "Backspace", "Backspace", "i", "e", "n", "t", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "h", "e", "l", " ", "Backspace", "p", " ", "r", "e", "s", "u", "Backspace", "c", "u", "r", "Backspace", "e", " ", "t", "h", "e", " ", "w", "o", "Backspace", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "i", "d", "e", "l", "Backspace", "Backspace", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", "i", "s", "Backspace", "Backspace", "s", " ", "i", "t", " ", "b", "r", "i", "s", "k", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "r", "Backspace", "y", "o", "r", " ", "b", "l", "e", "Backspace", "Backspace", "e", "l", "t", " ", "f", "o", "r", " ", "s", "w", "i", "f", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 60
+Accuracy: 1.0
+Incorrections: 0
+Time: 24.600866
+Clicks: [ "Left Shift", "W", "i", "t", "h", "e", "Backspace", "Backspace", "h", " ", "m", "e", "a", "s", "u", "e", "Backspace", "r", "e", "d", " ", "f", "i", "n", "e", "s", "s", "e", ",", " ", "r", "o", "b", "o", "t", "i", "c", " ", "c", "l", "a", "w", ",", " ", "e", "l", "e", "v", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "a", "l", "i", "g", "h", "t", "Backspace", "Backspace", "n", " ", "i", "t", " ", "g", "r", "a", "c", "e", "m", "Backspace", "f", "u", "l", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "c", "o", "n", "v", "Backspace", "t", "i", "n", "u", "e", " ", "w", "o", "r", "k", ".",  ]
+
+Task: 6
+WPM: 52
+Accuracy: 1.0
+Incorrections: 0
+Time: 28.059181
+Clicks: [ "Left Shift", "C", "l", "a", "w", ",", " ", "i", "n", "d", "l", "Backspace", "u", "l", "g", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "k", "a", "t", "Backspace", "Backspace", "Backspace", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", " ", "-", " ", "e", "x", "i", "t", "Backspace", "Backspace", "t", "i", "r", "Backspace", "Backspace", "r", "i", "c", "a", "t", "e", " ", "i", "t", " ", "g", "e", "n", "t", "l", "y", " ", "a", "n", "d", " ", "s", "i", "t", "u", "a", "t", "i", "Backspace", "e", " ", "i", "t", " ", "f", "d", "Backspace", "Backspace", "d", "e", "f", "t", "l", "y", " ", "u", "p", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "t", "o", "r", "Backspace", "Backspace", "Backspace", "y", "o", "r", " ", "e", "Backspace", "m", "e", "c", "h", "a", "n", "i", "s", "m", ".",  ]
+
+Task: 7
+WPM: 58
+Accuracy: 1.0
+Incorrections: 0
+Time: 26.076087
+Clicks: [ "Left Shift", "W", "Backspace", "e", "Left Shift", "Backspace", "Left Shift", "E", "s", "t", "e", "e", "m", "e", "d", ",", "Backspace", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "e", "m", "a", "n", "d", "Backspace", "c", "i", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "s", "t", "a", "g", "n", "a", "t", "i", "o", "n", " ", "a", "n", "d", " ", "p", "o", "s", "i", "t", "i", "o", "n", " ", "i", "t", " ", "f", "g", "a", "u", "Backspace", "Backspace", "Backspace", "a", "u", "l", "t", "y", "l", "Backspace", "Backspace", "l", "e", "s", "s", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "e", "e", "Backspace", "f", "f", "i", "c", "a", "c", "t", "i", "o", "Backspace", "Backspace", "Backspace", "i", "o", "u", "s", " ", "p", "r", "o", "g", "r", "e", "s", "s", ".",  ]
+
+Task: 8
+WPM: 60
+Accuracy: 1.0
+Incorrections: 0
+Time: 26.609146
+Clicks: [ "Left Shift", "C", "o", "n", "s", "e", "r", "Backspace", "Backspace", "i", "d", "e", "r", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "a", "l", "l", "e", "v", "i", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "e", "x", "i", "s", "t", "e", "n", "t", "i", "a", "l", " ", "e", "n", "n", "u", "i", "e", "Backspace", " ", "b", "y", " ", "h", "o", "i", "s", "i", "t", "Backspace", "Backspace", "t", "i", "n", "g", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", ",", " ", "e", "n", "s", "u", "r", "e", "i", "Backspace", "Backspace", "i", "n", "g", " ", "i", "m", "p", "e", "c", "c", "a", "b", "l", "e", " ", "a", "l", "i", "g", "h", "n", "Backspace", "Backspace", "n", "m", "e", "n", "t", ".",  ]
+
+Task: 9
+WPM: 69
+Accuracy: 1.0
+Incorrections: 0
+Time: 23.675753
+Clicks: [ "Left Shift", "C", "a", "p", "a", "b", "l", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "t", "r", "a", "n", "s", "m", "o", "g", "r", "i", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "t", "o", "r", "p", "i", "d", " ", "r", "e", "p", "o", "s", "e", " ", "i", "n", "t", "o", " ", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "l", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "r", "a", "t", "l", "Backspace", "e", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "z", "e", "a", "l", "o", "i", "Backspace", "u", "s", " ", "p", "r", "e", "c", "i", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 55
+Accuracy: 1.0
+Incorrections: 0
+Time: 25.921308
+Clicks: [ "Left Shift", "C", "Backspace", "S", "u", "p", "e", "Backspace", "r", "e", "m", "e", ",", "Backspace", " ", "Left Shift", "C", "a", "l", "Backspace", "Backspace", "l", "a", "w", ",", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "d", "e", "p", "o", "s", "i", "t", "y", " ", "Backspace", "i", "Backspace", "Backspace", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "t", "o", "Backspace", "Backspace", "y", "o", "r", " ", "t", "Backspace", "w", "i", "t", "h", " ", "n", "o", "n", "c", "h", "a", "l", "a", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "q", "u", "i", "n", "t", "e", "s", "s", "e", "n", "t", "i", "a", "l", " ", "e", "x", "a", "c", "t", "i", "t", "i", "Backspace", "u", "d", "e", ".",  ]
+
+
+
+====================
+
+
+
+
+====================
+PARTICPANT #12.0 -VERSION: Desktop
+
+
+Task: 1
+WPM: 46
+Accuracy: 0.93617
+Incorrections: 6
+Time: 16.650577
+Clicks: [ "Left Shift", "P", "l", "e", "a", "s", "e", " ", "p", "i", "c", "k", " ", "u", "p", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "p", "l", "a", "c", "e", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "y", "=", "e", "o", "r", " ", "e", "l", "t", " ", "t", "o", " ", "s", "t", "a", "r", "t", " ", "t", "h", "e", " ", "p", "r", "o", "c", "e", "s", "s", ".",  ]
+
+Task: 2
+WPM: 55
+Accuracy: 1.0
+Incorrections: 0
+Time: 21.492431
+Clicks: [ "Left Shift", "C", "a", "r", "e", "f", "u", "l", "l", "y", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "t", "h", " ", "Backspace", "e", " ", "f", "l", "o", "o", "r", " ", "a", "n", "d", " ", "c", "e", "n", "t", "e", "r", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "e", "y", "Backspace", "Backspace", "e", "y", "Backspace", "Backspace", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "f", "i", "n", "i", "s", "h", " ", "t", "h", "e", " ", "t", "a", "s", "k", ".",  ]
+
+Task: 3
+WPM: 73
+Accuracy: 1.0
+Incorrections: 0
+Time: 17.700634
+Clicks: [ "Backspace", "Left Shift", "S", "t", "e", "a", "d", "y", " ", "t", "e", "Backspace", "Backspace", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", ",", " ", "r", "a", "i", "s", "e", " ", "i", "t", " ", "s", "m", "o", "o", "t", "h", "l", "y", " ", "a", "n", "d", " ", "s", "e", "t", "t", "l", "e", " ", "i", "t", " ", "s", "q", "u", "a", "r", "e", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "b", "e", "f", "o", "r", "e", " ", "r", "o", "l", "l", "i", "n", "g", " ", "a", "h", "e", "a", "d", ".",  ]
+
+Task: 4
+WPM: 45
+Accuracy: 0.991453
+Incorrections: 1
+Time: 30.102823
+Clicks: [ "Left Shift", "P", "a", "t", "e", "Backspace", "i", "e", "n", "t", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "h", "e", "l", "p", " ", "r", "e", "s", "c", "u", "r", "e", " ", "Backspace", "Backspace", "Backspace", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "o", "d", "Backspace", "Backspace", "i", "d", "l", "e", "n", "e", "s", "s", " ", "a", "n", "d", " ", "u", "s", "h", "e", "r", "s", " ", "i", "t", " ", "b", "r", "i", "s", "k", "'", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "w", "Backspace", "c", "o", "n", "v", "e", "y", "o", "r", " ", "b", "e", "l", "t", " ", "f", "o", "r", " ", "s", "w", "i", "f", "t", " ", "t", "r", "a", "v", "e", "l", ".",  ]
+
+Task: 5
+WPM: 46
+Accuracy: 0.991803
+Incorrections: 1
+Time: 30.64272
+Clicks: [ "Left Shift", "W", "i", "t", "h", " ", "m", "e", "a", "s", "u", "r", "e", "s", "Backspace", "d", " ", "f", "i", "n", "n", "Backspace", "e", "s", "s", "e", ",", " ", "o", "r", "Backspace", "Backspace", "r", "o", "b", "o", "t", "o", "Backspace", "i", "c", " ", "c", "l", "a", "w", ",", " ", "e", "l", "e", "v", "a", "t", "e", "4", " ", "t", "Backspace", "Backspace", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "a", "l", "i", "g", "h", "Backspace", "n", " ", "i", "t", " ", "g", "r", "a", "c", "e", "f", "u", "l", "l", "y", " ", "o", "n", "t", "Backspace", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "r", "Backspace", "o", "r", " ", "b", "e", "l", "t", " ", "t", "o", " ", "c", "o", "n", "t", "i", "n", "u", "e", " ", "w", "o", "r", "k", ".",  ]
+
+Task: 6
+WPM: 39
+Accuracy: 1.0
+Incorrections: 0
+Time: 36.909575
+Clicks: [ "Left Shift", "C", "l", "a", "w", ",", " ", "i", "n", "d", "u", "l", "g", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "l", "a", "t", "e", "n", "t", " ", "w", "a", "n", "d", "e", "r", "l", "u", "s", "t", " ", "-", " ", "e", "x", "t", "r", "i", "c", "a", "t", "e", " ", "i", "t", " ", "e", "Backspace", "h", "e", "Backspace", "Backspace", "g", "e", "n", "t", "l", "y", " ", "a", "n", "d", " ", "s", "i", "t", "u", "a", "t", "e", " ", "i", "t", " ", "d", "e", "f", "t", "l", "y", " ", "u", "p", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "m", "e", "c", "h", "a", "n", "i", "s", "m", ".",  ]
+
+Task: 7
+WPM: 45
+Accuracy: 0.992063
+Incorrections: 1
+Time: 32.601025
+Clicks: [ "Left Shift", "E", "s", "t", "e", "e", "m", "e", "d", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "e", "m", "a", "n", "c", "i", "p", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "f", "r", "o", "m", " ", "s", "t", "a", "g", "n", "a", "t", "i", "o", "n", ",", " ", "a", "d", "Backspace", "Backspace", "Backspace", "a", "n", "d", " ", "p", "o", "s", "i", "t", "i", "o", "n", " ", "i", "t", " ", "f", "a", "u", "l", "t", "l", "e", "s", "s", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "f", "o", "r", " ", "e", "f", "f", "i", "c", "a", "c", "i", "o", "u", "s", " ", "p", "r", "o", "g", "r", "e", "s", "s", ".",  ]
+
+Task: 8
+WPM: 49
+Accuracy: 1.0
+Incorrections: 0
+Time: 32.813167
+Clicks: [ "Left Shift", "C", "o", "n", "s", "i", "d", "e", "r", "e", "a", "Backspace", "Backspace", "a", "t", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "a", "l", "l", "e", "v", "i", "a", "t", "e", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "e", "s", "i", "Backspace", "Backspace", "c", "i", "Backspace", "Backspace", "x", "i", "s", "t", "e", "e", "Backspace", "n", "t", "i", "a", "l", " ", "e", "n", "n", "u", "i", " ", "b", "y", " ", "h", "o", "u", "i", "Backspace", "Backspace", "i", "s", "i", "t", "Backspace", "Backspace", "t", "i", "n", "g", " ", "i", "t", " ", "n", "e", "a", "t", "l", "y", " ", "o", "n", "t", "o", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", ",", " ", "e", "n", "s", "u", "r", "e", "Backspace", "i", "n", "g", " ", "i", "m", "p", "r", "Backspace", "e", "c", "c", "a", "b", "l", "e", " ", "a", "l", "i", "g", "n", "m", "e", "n", "t", ".",  ]
+
+Task: 9
+WPM: 49
+Accuracy: 1.0
+Incorrections: 0
+Time: 33.500109
+Clicks: [ "Left Shift", "C", "a", "p", "a", "b", "l", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "t", "r", "a", "n", "s", "f", "Backspace", "m", "o", "r", "g", "Backspace", "Backspace", "g", "r", "i", "f", "y", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", "'", "s", " ", "t", "o", "r", "p", "i", "d", " ", "r", "e", "s", "p", "o", "s", "e", "Backspace", "Backspace", "Backspace", "Backspace", "Backspace", "p", "o", "s", "e", " ", "o", "n", "Backspace", "Backspace", "i", "n", "t", "o", " ", "m", "o", "v", "e", "m", "e", "n", "t", " ", "b", "y", " ", "p", "l", "a", "c", "i", "n", "g", " ", "i", "t", " ", "a", "c", "c", "u", "r", "a", "t", "l", "Backspace", "e", "l", "y", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "z", "e", "a", "l", "u", "=", "Backspace", "Backspace", "o", "u", "s", " ", "p", "r", "e", "v", "i", "Backspace", "Backspace", "c", "i", "s", "i", "o", "n", ".",  ]
+
+Task: 10
+WPM: 39
+Accuracy: 0.991597
+Incorrections: 1
+Time: 34.859489
+Clicks: [ "Left Shift", "S", "u", "p", "r", "e", "m", "e", " ", "Left Shift", "C", "l", "a", "w", ",", " ", "l", "i", "f", "t", " ", "t", "h", "e", " ", "w", "o", "o", "d", "e", "n", " ", "b", "o", "x", " ", "a", "n", "d", " ", "d", "e", "s", "Backspace", "p", "o", "s", "i", "t", " ", "i", "t", " ", "o", "n", " ", "t", "h", "e", " ", "c", "o", "n", "v", "e", "y", "o", "r", " ", "w", "i", "t", "h", " ", "c", "n", "Backspace", "Backspace", "n", "o", "n", "c", "h", "a", "l", "a", "m", "n", "t", "Backspace", "Backspace", "n", "Backspace", "Backspace", "n", "t", " ", "p", "a", "n", "a", "c", "h", "e", " ", "a", "n", "d", " ", "q", "u", "i", "n", "t", "e", "s", "s", "e", "n", "t", "i", "a", "l", "f", "g", "Backspace", "e", "x", "a", "c", "t", "i", "t", "u", "t", "Backspace", "d", "e", ".",  ]
+
+
+
+
+====================
+
+
+
