@@ -22,6 +22,9 @@ Plugins you'll need:
 Plugins you might need (If uassets fail importing):
 - GPU Lightmass
 - USD Importer
+- All OpenXR Plugins off
+- MetaXR enabled
+
 
 *Important*
 You'll need to configure the project settings slightly to get the lighting in the scene to work on VR. Within the "Rendering" section of the project settings change:
@@ -30,4 +33,4 @@ You'll need to configure the project settings slightly to get the lighting in th
 - Global Illumination: Dynamic Global Illumination Method = None
 - VR: Instanced Stereo = False
 
-Plugins - All OpenXR Plugins off, MetaXR enabled, 
+Make sure that hand tracking is enabled in the headset settings as well. 
